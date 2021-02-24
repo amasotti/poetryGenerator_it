@@ -1,0 +1,576 @@
+[
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit001006",
+        "author": "Antonio Scapuccini",
+        "collection": "Poesie",
+        "title": "I",
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": "La tua, come sorella trïunfante,"
+                },
+                {
+                    "verse": "Lupa, che l'alma Siena ha per insegna,"
+                },
+                {
+                    "verse": "ha voluto ch'io vegna"
+                },
+                {
+                    "verse": "a te, degli animal real signore,"
+                },
+                {
+                    "verse": "e porgati per lei salute tante"
+                },
+                {
+                    "verse": "cordialmeate e con vista benegna,"
+                },
+                {
+                    "verse": "quante dimora e regna"
+                },
+                {
+                    "verse": "stelle nel ciel, ch'a noi rendon splendore."
+                },
+                {
+                    "verse": "E doppo questo con zelante amore"
+                },
+                {
+                    "verse": "come a fratello te ragiona e dice"
+                },
+                {
+                    "verse": "che mai fosti felice"
+                },
+                {
+                    "verse": "quanto al dì d'oggi; e tal felicitade"
+                }
+            ],
+            [
+                {
+                    "verse": "deriva sol da vera fedeltade."
+                },
+                {
+                    "verse": "Questa fede veril, che tra voi giace,"
+                },
+                {
+                    "verse": "la mente di color che vi pon cura"
+                },
+                {
+                    "verse": "puoi veder ch'asicura"
+                },
+                {
+                    "verse": "Toscana, fior d'Italia e del mondo."
+                },
+                {
+                    "verse": "Questa fede è che fa vivere in pace"
+                },
+                {
+                    "verse": "di F. e S. le superbe mura"
+                },
+                {
+                    "verse": "e tutta lor congiura;"
+                },
+                {
+                    "verse": "ne vive ogn'omo splendido e giocondo"
+                },
+                {
+                    "verse": "di sé, considerati a tondo a tondo."
+                },
+                {
+                    "verse": "De l'universo è un simile gioiello,"
+                },
+                {
+                    "verse": "gentile, adorno e bello"
+                },
+                {
+                    "verse": "quanto Toscana? Or si mantenga il modo"
+                },
+                {
+                    "verse": "che 'l cultivato non diventi sodo."
+                }
+            ],
+            [
+                {
+                    "verse": "Perché dagli animal dal bosco uniti"
+                },
+                {
+                    "verse": "temuti e amati sète sempre suti,"
+                },
+                {
+                    "verse": "ché gagliardi e saputi"
+                },
+                {
+                    "verse": "vi tengon di prudenzia a lor maggiori,"
+                },
+                {
+                    "verse": "e per tal segno i ciel v'han stabiliti"
+                },
+                {
+                    "verse": "nel fior di quanti mai paesi induti"
+                },
+                {
+                    "verse": "fuôr trovati o veduti"
+                },
+                {
+                    "verse": "di glorie, di trïunfi e d'alti onori,"
+                },
+                {
+                    "verse": "or, poi che i fati, i pianeti e auguri"
+                },
+                {
+                    "verse": "prosper vi sono, non manchi da vui,"
+                },
+                {
+                    "verse": "ché vien da essemplo altrui"
+                },
+                {
+                    "verse": "e dessi ancor per ragion naturale,"
+                },
+                {
+                    "verse": "amar più 'l ben, quando è provato el male."
+                }
+            ],
+            [
+                {
+                    "verse": "E chiunque ha punto di iudizio vero"
+                },
+                {
+                    "verse": "giudicarà che non è altro guerra"
+                },
+                {
+                    "verse": "se non mettere a terra"
+                },
+                {
+                    "verse": "libertà, pace, onore e coscienza,"
+                },
+                {
+                    "verse": "guastar di legge e far del bianco nero,"
+                },
+                {
+                    "verse": "preson de' boni e far liber chi erra,"
+                },
+                {
+                    "verse": "e per pian, monti e serra"
+                },
+                {
+                    "verse": "discacciar securtà con vïolenza,"
+                },
+                {
+                    "verse": "distruggimento d'umana semenza,"
+                },
+                {
+                    "verse": "tenere inculti tutti i suoi terrini"
+                },
+                {
+                    "verse": "e i fanciul piccolini"
+                },
+                {
+                    "verse": "limosinare e spersi con doglie atre,"
+                },
+                {
+                    "verse": "perder li patri e l'onor delle matre."
+                }
+            ],
+            [
+                {
+                    "verse": "Qual è colui che, considerando"
+                },
+                {
+                    "verse": "el male ispeso per guerra talento,"
+                },
+                {
+                    "verse": "ogni suo sentimento"
+                },
+                {
+                    "verse": "non operasse a pace conservare"
+                },
+                {
+                    "verse": "e poner guerra e i suoi sequaci in bando"
+                },
+                {
+                    "verse": "per poter viver securo e contento"
+                },
+                {
+                    "verse": "ed a l'ultimo stento"
+                },
+                {
+                    "verse": "el suo figliol del suo erede lasciare?"
+                },
+                {
+                    "verse": "Chi cerca guerra si brama ubligare"
+                },
+                {
+                    "verse": "a tal ch'essendo in pace l'ubedisce."
+                },
+                {
+                    "verse": "Chi vol guerra apetisce"
+                },
+                {
+                    "verse": "l'aiuto altrui, che tardi è, se pur vène:"
+                },
+                {
+                    "verse": "vène a cagion di far solo el suo bene."
+                },
+                {
+                    "verse": "Veduto che per pace un paradiso"
+                },
+                {
+                    "verse": "di contentezza in terra se possiede,"
+                },
+                {
+                    "verse": "e per guerra se vede"
+                },
+                {
+                    "verse": "profundar molto peggio ch'a l'inferno,"
+                },
+                {
+                    "verse": "la eccelsa Lupa con perfetto viso,"
+                },
+                {
+                    "verse": "perché come lei pace non gli crede,"
+                },
+                {
+                    "verse": "t'asicura e fa fede"
+                },
+                {
+                    "verse": "che mai da lei non mancarà in eterno;"
+                },
+                {
+                    "verse": "e così di Toscana el bel governo"
+                },
+                {
+                    "verse": "per pace s'ampliarà senza suspetto,"
+                },
+                {
+                    "verse": "usando questo effetto"
+                },
+                {
+                    "verse": "di carità per animo discreto:"
+                },
+                {
+                    "verse": "comunicar l'un l'altro ogni secreto."
+                },
+                {
+                    "verse": "— Canzon mia nova, fa' che 'l tuo ricordo"
+                },
+                {
+                    "verse": "vada a quel degno re Leon chiamato,"
+                },
+                {
+                    "verse": "come tu hai el mandato"
+                },
+                {
+                    "verse": "de la prefata Lupa, e digli el tutto."
+                },
+                {
+                    "verse": "Dal qual, se non farà el suo senso sordo,"
+                },
+                {
+                    "verse": "tutto l'esponer tuo serà notato"
+                },
+                {
+                    "verse": "e poi adoperato,"
+                },
+                {
+                    "verse": "perché secondo l'arbor nasce el frutto."
+                },
+                {
+                    "verse": "E di' che dice un motto"
+                },
+                {
+                    "verse": "che, quando el corpo cade in dolor rei,"
+                },
+                {
+                    "verse": "el pò più presto aitar le man che i piei."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit001006",
+        "author": "Antonio Scapuccini",
+        "collection": "Poesie",
+        "title": "II",
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": "Seneca in epistolis suis scrive"
+                },
+                {
+                    "verse": "che l'omo al tempo se dovria adattare,"
+                },
+                {
+                    "verse": "onde per tal parlare"
+                },
+                {
+                    "verse": "la Lupa eccelsa con amore e fede"
+                },
+                {
+                    "verse": "a te, Leon, degli animal che vive"
+                },
+                {
+                    "verse": "signore e re, che pòi fare e disfare,"
+                },
+                {
+                    "verse": "unico senza pare,"
+                },
+                {
+                    "verse": "manda salute; e poi dice che crede,"
+                },
+                {
+                    "verse": "per quanto da la lunge pensa e vede,"
+                },
+                {
+                    "verse": "che mai più fosse l'universa terra"
+                },
+                {
+                    "verse": "tutta commossa a guerra"
+                },
+                {
+                    "verse": "quanto 'l dì d'oggi. Onde, lettor verace,"
+                },
+                {
+                    "verse": "è da veder che sia guerra e che pace."
+                }
+            ],
+            [
+                {
+                    "verse": "Guerra è un far da Dio seperazione"
+                },
+                {
+                    "verse": "ed a la coscïenza el lume spinge,"
+                },
+                {
+                    "verse": "la carità destinge:"
+                },
+                {
+                    "verse": "[ed] eccoti del mondo fatto inferno."
+                },
+                {
+                    "verse": "Guerra discaccia giustizia e ragione"
+                },
+                {
+                    "verse": "e d'ogni mal pensier se veste e cinge;"
+                },
+                {
+                    "verse": "en lei non se continge"
+                },
+                {
+                    "verse": "né per l'antiquo, né per il moderno"
+                },
+                {
+                    "verse": "altro che tutto mal, com'io discerno,"
+                },
+                {
+                    "verse": "esterminio di gente e di paese,"
+                },
+                {
+                    "verse": "e in ascoso e in palese,"
+                },
+                {
+                    "verse": "rubando robe d'ogni qualitade;"
+                },
+                {
+                    "verse": "el pentimento è poi taglio di spade."
+                }
+            ],
+            [
+                {
+                    "verse": "Per essa guerra sempre se ragiona"
+                },
+                {
+                    "verse": "mecidi, tradimenti e inganni molti"
+                },
+                {
+                    "verse": "e sormontar li stolti,"
+                },
+                {
+                    "verse": "ghiotton lascivi e pien d'ogni follia;"
+                },
+                {
+                    "verse": "e chi può peggio fare ha la corona,"
+                },
+                {
+                    "verse": "e gli omin bon convien che stieno occulti"
+                },
+                {
+                    "verse": "e tengano sepulti"
+                },
+                {
+                    "verse": "i san consegli e di pace la via."
+                },
+                {
+                    "verse": "Guerra non cerca altra mercanzia"
+                },
+                {
+                    "verse": "che ferri d'omicidio, se ben guarde,"
+                },
+                {
+                    "verse": "polvere da bombarde,"
+                },
+                {
+                    "verse": "veneno in saetame, e l'altro more,"
+                },
+                {
+                    "verse": "e sempre c'è suspetto dentro e fore."
+                }
+            ],
+            [
+                {
+                    "verse": "Guerra le donne fa vedove e oscure"
+                },
+                {
+                    "verse": "e fa del seme uman perdere el frutto"
+                },
+                {
+                    "verse": "e quel paese tutto,"
+                },
+                {
+                    "verse": "là dove è guerra, sempre morì inculto,"
+                },
+                {
+                    "verse": "e pover fa le ricche creature,"
+                },
+                {
+                    "verse": "cercare el pane altrui con pianto e lutto,"
+                },
+                {
+                    "verse": "e fa el paese asciutto"
+                },
+                {
+                    "verse": "di donne caste e meretrice fulto."
+                },
+                {
+                    "verse": "Guerra discaccia e leva il divin culto"
+                },
+                {
+                    "verse": "ed ogni mala pianta fa creare,"
+                },
+                {
+                    "verse": "disonesto parlare;"
+                },
+                {
+                    "verse": "lì non se serva nulla bona legge."
+                },
+                {
+                    "verse": "Or questo può aspettar chi guerra ellegge."
+                }
+            ],
+            [
+                {
+                    "verse": "La pace d'ogni bon ben fa divizia"
+                },
+                {
+                    "verse": "e dove sta la pace lì sta Idio,"
+                },
+                {
+                    "verse": "onde che senza rio"
+                },
+                {
+                    "verse": "s'essalta sempre quel loco a più onore."
+                },
+                {
+                    "verse": "Ivi trïunfa ragione e iustizia,"
+                },
+                {
+                    "verse": "ivi s'adopra ciascuno atto pio,"
+                },
+                {
+                    "verse": "sì che da l'a al fio"
+                },
+                {
+                    "verse": "de la pace cercar tutto è 'l migliore."
+                },
+                {
+                    "verse": "Là dove è pace, lì vive l'amore,"
+                },
+                {
+                    "verse": "la carità, onestate e sacra vita;"
+                },
+                {
+                    "verse": "lì se trova adimpita"
+                },
+                {
+                    "verse": "la voluntà di chi el ben viver piace"
+                },
+                {
+                    "verse": "e morte de l'iniqui e di fallace."
+                }
+            ],
+            [
+                {
+                    "verse": "Veduto adunque la preditta Lupa"
+                },
+                {
+                    "verse": "el tempo tutto a guerra sullevato,"
+                },
+                {
+                    "verse": "ormai s'è consigliato"
+                },
+                {
+                    "verse": "di quanta orribiltà per guerra vène,"
+                },
+                {
+                    "verse": "e come ella è colei che 'l mondo occùpa"
+                },
+                {
+                    "verse": "e fallo star diviso d'ogni lato;"
+                },
+                {
+                    "verse": "e quello è sol beato"
+                },
+                {
+                    "verse": "che oggi senza guerra se mantene."
+                },
+                {
+                    "verse": "Te manda a dir per l'uno e l'altro bene"
+                },
+                {
+                    "verse": "di voi sol dui ch'a fuggir tal ruina"
+                },
+                {
+                    "verse": "la somma medicina"
+                },
+                {
+                    "verse": "è di secreti palesarsi spesso"
+                },
+                {
+                    "verse": "e fare ad altri quel che per se stesso."
+                },
+                {
+                    "verse": "— Canzon mia, tu dirai quel che t'è 'mposto,"
+                },
+                {
+                    "verse": "e di reprension non dubitare,"
+                },
+                {
+                    "verse": "però che 'l tuo parlare"
+                },
+                {
+                    "verse": "è d'un verace, sacro e bel subietto."
+                },
+                {
+                    "verse": "Ed a chi intende non serà nascosto"
+                },
+                {
+                    "verse": "che col tuo detto crescerà l'amare"
+                },
+                {
+                    "verse": "d'un perfetto operare,"
+                },
+                {
+                    "verse": "sì che di pace manterrà l'effetto."
+                },
+                {
+                    "verse": "Onde con tal diletto"
+                },
+                {
+                    "verse": "e gloria trïunfale, alta e soprana"
+                },
+                {
+                    "verse": "crescerà in stato el giglio e la balzana."
+                }
+            ]
+        ]
+    }
+]

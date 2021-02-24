@@ -1,0 +1,4438 @@
+[
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 0,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": "Madonna, dir vo voglio"
+                },
+                {
+                    "verse": "como l'amor m'à priso,"
+                },
+                {
+                    "verse": "inver' lo grande orgoglio"
+                },
+                {
+                    "verse": "che voi bella mostrate, e no m'aita."
+                },
+                {
+                    "verse": "Oi lasso, lo meo core,"
+                },
+                {
+                    "verse": "che 'n tante pene è miso"
+                },
+                {
+                    "verse": "che vive quando more"
+                },
+                {
+                    "verse": "per bene amare, e teneselo a vita."
+                },
+                {
+                    "verse": "Dunque mor'e viv'eo?"
+                },
+                {
+                    "verse": "No, ma lo core meo"
+                },
+                {
+                    "verse": "more più spesso e forte"
+                },
+                {
+                    "verse": "che no faria di morte —naturale,"
+                },
+                {
+                    "verse": "per voi, donna, cui ama,"
+                },
+                {
+                    "verse": "più che se stesso brama,"
+                },
+                {
+                    "verse": "e voi pur lo sdegnate:"
+                },
+                {
+                    "verse": "amor, vostra 'mistate —vidi male."
+                }
+            ],
+            [
+                {
+                    "verse": " Lo meo 'namoramento"
+                },
+                {
+                    "verse": "non pò parire in detto,"
+                },
+                {
+                    "verse": "ma sì com'eo lo sento"
+                },
+                {
+                    "verse": "cor no lo penseria né diria lingua;"
+                },
+                {
+                    "verse": "e zo ch'eo dico è nente"
+                },
+                {
+                    "verse": "inver' ch'eo son distretto"
+                },
+                {
+                    "verse": "tanto coralemente:"
+                },
+                {
+                    "verse": "foc'aio al cor non credo mai si stingua;"
+                },
+                {
+                    "verse": "anzi si pur alluma:"
+                },
+                {
+                    "verse": "perché non mi consuma?"
+                },
+                {
+                    "verse": "La salamandra audivi"
+                },
+                {
+                    "verse": "che 'nfra lo foco vivi —stando sana;"
+                },
+                {
+                    "verse": "eo sì fo per long'uso,"
+                },
+                {
+                    "verse": "vivo 'n foc'amoroso"
+                },
+                {
+                    "verse": "e non saccio ch'eo dica:"
+                },
+                {
+                    "verse": "lo meo lavoro spica —e non ingrana."
+                }
+            ],
+            [
+                {
+                    "verse": " Madonna, sì m'avene"
+                },
+                {
+                    "verse": "ch'eo non posso avenire"
+                },
+                {
+                    "verse": "com'eo dicesse bene"
+                },
+                {
+                    "verse": "la propia cosa ch'eo sento d'amore;"
+                },
+                {
+                    "verse": "sì com'omo in prudito"
+                },
+                {
+                    "verse": "lo cor mi fa sentire,"
+                },
+                {
+                    "verse": "che già mai no 'nd'è quito"
+                },
+                {
+                    "verse": "mentre non pò toccar lo suo sentore."
+                },
+                {
+                    "verse": "Lo non-poter mi turba,"
+                },
+                {
+                    "verse": "com'on che pinge e sturba,"
+                },
+                {
+                    "verse": "e pure li dispiace"
+                },
+                {
+                    "verse": "lo pingere che face, —e sé riprende,"
+                },
+                {
+                    "verse": "che non fa per natura"
+                },
+                {
+                    "verse": "la propia pintura;"
+                },
+                {
+                    "verse": "e non è da blasmare"
+                },
+                {
+                    "verse": "omo che cade in mare —a che s'aprende."
+                }
+            ],
+            [
+                {
+                    "verse": " Lo vostr'amor che m'ave"
+                },
+                {
+                    "verse": "in mare tempestoso,"
+                },
+                {
+                    "verse": "è sì como la nave"
+                },
+                {
+                    "verse": "c'a la fortuna getta ogni pesanti,"
+                },
+                {
+                    "verse": "e campan per lo getto"
+                },
+                {
+                    "verse": "di loco periglioso;"
+                },
+                {
+                    "verse": "similemente eo getto"
+                },
+                {
+                    "verse": "a voi, bella, li mei sospiri e pianti."
+                },
+                {
+                    "verse": "Che s'eo no li gittasse"
+                },
+                {
+                    "verse": "parria che soffondasse,"
+                },
+                {
+                    "verse": "e bene soffondara,"
+                },
+                {
+                    "verse": "lo cor tanto gravara —in suo disio;"
+                },
+                {
+                    "verse": "che tanto frange a terra"
+                },
+                {
+                    "verse": "tempesta, che s'aterra,"
+                },
+                {
+                    "verse": "ed eo così rinfrango,"
+                },
+                {
+                    "verse": "quando sospiro e piango —posar crio."
+                }
+            ],
+            [
+                {
+                    "verse": " Assai mi son mostrato"
+                },
+                {
+                    "verse": "a voi, donna spietata,"
+                },
+                {
+                    "verse": "com'eo so' innamorato,"
+                },
+                {
+                    "verse": "ma creio ch'e' dispiaceria voi pinto."
+                },
+                {
+                    "verse": "Poi c'a me solo, lasso,"
+                },
+                {
+                    "verse": "cotal ventura è data,"
+                },
+                {
+                    "verse": "perché no mi 'nde lasso?"
+                },
+                {
+                    "verse": "Non posso, di tal guisa Amor m'à vinto."
+                },
+                {
+                    "verse": "Vorria c'or avenisse"
+                },
+                {
+                    "verse": "che lo meo core 'scisse"
+                },
+                {
+                    "verse": "come 'ncarnato tutto,"
+                },
+                {
+                    "verse": "e non facesse motto —a vo', isdegnosa;"
+                },
+                {
+                    "verse": "c'Amore a tal l'adusse"
+                },
+                {
+                    "verse": "ca, se vipera i fusse,"
+                },
+                {
+                    "verse": "natura perderia:"
+                },
+                {
+                    "verse": "a tal lo vederia, —fora pietosa."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 1,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Meravigliosa-mente"
+                },
+                {
+                    "verse": "un amor mi distringe"
+                },
+                {
+                    "verse": "e mi tene ad ogn'ora."
+                },
+                {
+                    "verse": "Com'om che pone mente"
+                },
+                {
+                    "verse": "in altro exemplo pinge"
+                },
+                {
+                    "verse": "la simile pintura,"
+                },
+                {
+                    "verse": "così, bella, facc'eo,"
+                },
+                {
+                    "verse": "che 'nfra lo core meo"
+                },
+                {
+                    "verse": "porto la tua figura."
+                }
+            ],
+            [
+                {
+                    "verse": " In cor par ch'eo vi porti,"
+                },
+                {
+                    "verse": "pinta come parete,"
+                },
+                {
+                    "verse": "e non pare difore."
+                },
+                {
+                    "verse": "O Deo, co' mi par forte"
+                },
+                {
+                    "verse": "non so se lo sapete,"
+                },
+                {
+                    "verse": "con' v'amo di bon core;"
+                },
+                {
+                    "verse": "ch'eo son sì vergognoso"
+                },
+                {
+                    "verse": "che pur vi guardo ascoso"
+                },
+                {
+                    "verse": "e non vi mostro amore."
+                }
+            ],
+            [
+                {
+                    "verse": " Avendo gran disio"
+                },
+                {
+                    "verse": "dipinsi una pintura,"
+                },
+                {
+                    "verse": "bella, voi simigliante,"
+                },
+                {
+                    "verse": "e quando voi non vio"
+                },
+                {
+                    "verse": "guardo 'n quella figura,"
+                },
+                {
+                    "verse": "par ch'eo v'aggia davante:"
+                },
+                {
+                    "verse": "come quello che crede"
+                },
+                {
+                    "verse": "salvarsi per sua fede,"
+                },
+                {
+                    "verse": "ancor non veggia inante."
+                }
+            ],
+            [
+                {
+                    "verse": " Al cor m'ard'una doglia,"
+                },
+                {
+                    "verse": "com'om che ten lo foco"
+                },
+                {
+                    "verse": "a lo suo seno ascoso,"
+                },
+                {
+                    "verse": "e quando più lo 'nvoglia,"
+                },
+                {
+                    "verse": "allora arde più loco"
+                },
+                {
+                    "verse": "e non pò star incluso:"
+                },
+                {
+                    "verse": "similemente eo ardo"
+                },
+                {
+                    "verse": "quando pass'e non guardo"
+                },
+                {
+                    "verse": "a voi, vis'amoroso."
+                }
+            ],
+            [
+                {
+                    "verse": " S'eo guardo, quando passo,"
+                },
+                {
+                    "verse": "inver' voi no mi giro,"
+                },
+                {
+                    "verse": "bella, per risguardare;"
+                },
+                {
+                    "verse": "andando, ad ogni passo"
+                },
+                {
+                    "verse": "getto uno gran sospiro"
+                },
+                {
+                    "verse": "ca facemi ancosciare;"
+                },
+                {
+                    "verse": "e certo bene ancoscio,"
+                },
+                {
+                    "verse": "c'a pena mi conoscio,"
+                },
+                {
+                    "verse": "tanto bella mi pare."
+                }
+            ],
+            [
+                {
+                    "verse": " Assai v'aggio laudato,"
+                },
+                {
+                    "verse": "madonna, in tutte parti,"
+                },
+                {
+                    "verse": "di bellezze c'avete."
+                },
+                {
+                    "verse": "Non so se v'è contato"
+                },
+                {
+                    "verse": "ch'eo lo faccia per arti,"
+                },
+                {
+                    "verse": "che voi pur v'ascondete:"
+                },
+                {
+                    "verse": "sacciatelo per singa"
+                },
+                {
+                    "verse": "zo ch'eo no dico a linga,"
+                },
+                {
+                    "verse": "quando voi mi vedite."
+                }
+            ],
+            [
+                {
+                    "verse": " Canzonetta novella,"
+                },
+                {
+                    "verse": "va' canta nova cosa;"
+                },
+                {
+                    "verse": "lèvati da maitino"
+                },
+                {
+                    "verse": "davanti a la più bella,"
+                },
+                {
+                    "verse": "fiore d'ogn'amorosa,"
+                },
+                {
+                    "verse": "bionda più c'auro fino:"
+                },
+                {
+                    "verse": "«Lo vostro amor, ch'è caro,"
+                },
+                {
+                    "verse": "donatelo al Notaro"
+                },
+                {
+                    "verse": "ch'è nato da Lentino»."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 2,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Guiderdone aspetto avere"
+                },
+                {
+                    "verse": "da voi, donna, cui servire"
+                },
+                {
+                    "verse": "no m'enoia;"
+                },
+                {
+                    "verse": "ancor che mi siate altera"
+                },
+                {
+                    "verse": "sempre spero avere intera"
+                },
+                {
+                    "verse": "d'amor gioia."
+                },
+                {
+                    "verse": "Non vivo in disperanza,"
+                },
+                {
+                    "verse": "ancor che mi disfidi"
+                },
+                {
+                    "verse": "la vostra disdegnanza:"
+                },
+                {
+                    "verse": "ca spesse volte vidi, —ed è provato,"
+                },
+                {
+                    "verse": "omo di poco affare"
+                },
+                {
+                    "verse": "pervenire in gran loco;"
+                },
+                {
+                    "verse": "se lo sape avanzare,"
+                },
+                {
+                    "verse": "moltipricar lo poco —c'à 'quistato."
+                }
+            ],
+            [
+                {
+                    "verse": " In disperanza no mi getto,"
+                },
+                {
+                    "verse": "ch'io medesmo mi 'mprometto"
+                },
+                {
+                    "verse": "d'aver bene:"
+                },
+                {
+                    "verse": "di bon core la leanza"
+                },
+                {
+                    "verse": "ch'i' vi porto, e la speranza"
+                },
+                {
+                    "verse": "mi mantene."
+                },
+                {
+                    "verse": "Però no mi scoraggio"
+                },
+                {
+                    "verse": "d'Amor che m'à distretto;"
+                },
+                {
+                    "verse": "sì com'omo salvaggio"
+                },
+                {
+                    "verse": "faraggio, com'è detto —ch'ello face:"
+                },
+                {
+                    "verse": "per lo reo tempo ride,"
+                },
+                {
+                    "verse": "sperando che poi pera"
+                },
+                {
+                    "verse": "lo laido aire che vede;"
+                },
+                {
+                    "verse": "da donna troppo fera —spero pace."
+                }
+            ],
+            [
+                {
+                    "verse": " S'io pur spero in allegranza,"
+                },
+                {
+                    "verse": "fina donna, pietanza"
+                },
+                {
+                    "verse": "in voi si mova."
+                },
+                {
+                    "verse": "Fina donna, no mi siate"
+                },
+                {
+                    "verse": "fera, poi tanta bieltate"
+                },
+                {
+                    "verse": "in voi si trova:"
+                },
+                {
+                    "verse": "ca donna c'à bellezze"
+                },
+                {
+                    "verse": "ed è senza pietade,"
+                },
+                {
+                    "verse": "com'omo [è] c'à richezze"
+                },
+                {
+                    "verse": "ed usa scarsitade —di ciò c'ave;"
+                },
+                {
+                    "verse": "se non è bene apreso,"
+                },
+                {
+                    "verse": "nodruto ed insegnato,"
+                },
+                {
+                    "verse": "da ogn'omo 'nd'è ripreso,"
+                },
+                {
+                    "verse": "orruto e dispregiato —e posto a grave."
+                }
+            ],
+            [
+                {
+                    "verse": " Donna mia, ch'eo non perisca:"
+                },
+                {
+                    "verse": "s'eo vi prego, no vi 'ncresca"
+                },
+                {
+                    "verse": "mia preghera."
+                },
+                {
+                    "verse": "Le bellezze che 'n voi pare"
+                },
+                {
+                    "verse": "mi distringe, e lo sguardare"
+                },
+                {
+                    "verse": "de la cera;"
+                },
+                {
+                    "verse": "la figura piacente"
+                },
+                {
+                    "verse": "lo core mi diranca:"
+                },
+                {
+                    "verse": "quando voi tegno mente"
+                },
+                {
+                    "verse": "lo spirito mi manca —e torna in ghiaccio."
+                },
+                {
+                    "verse": "Né-mica mi spaventa"
+                },
+                {
+                    "verse": "l'amoroso volere"
+                },
+                {
+                    "verse": "di ciò che m'atalenta,"
+                },
+                {
+                    "verse": "ch'eo no lo posso avere, —und'eo mi sfaccio."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 3,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Amor non vole ch'io clami"
+                },
+                {
+                    "verse": "merze [de] c'onn'omo clama,"
+                },
+                {
+                    "verse": "né ch [e] io m'avanti c'ami,"
+                },
+                {
+                    "verse": "c'ogn'omo s'avanta c'ama;"
+                },
+                {
+                    "verse": "che lo servire c'onn'omo"
+                },
+                {
+                    "verse": "sape fare nonn-à nomo,"
+                },
+                {
+                    "verse": "e no è in pregio di laudare"
+                },
+                {
+                    "verse": "quello che sape ciascuno:"
+                },
+                {
+                    "verse": "a voi, bella, tal[e] dono"
+                },
+                {
+                    "verse": "non vorria apresentare."
+                }
+            ],
+            [
+                {
+                    "verse": " Per zo l'amore mi 'nsegna"
+                },
+                {
+                    "verse": "ch'io non guardi a l'antra gente,"
+                },
+                {
+                    "verse": "non vuol ch'io resembli a scigna"
+                },
+                {
+                    "verse": "c'ogni viso tene mente;"
+                },
+                {
+                    "verse": "[e] per zo, [ma]donna mia,"
+                },
+                {
+                    "verse": "a voi non dimanderia"
+                },
+                {
+                    "verse": "merze[de] né pietanza,"
+                },
+                {
+                    "verse": "che tanti son li amatori"
+                },
+                {
+                    "verse": "ch'este 'scita di savori"
+                },
+                {
+                    "verse": "merze[de] per troppa usanza."
+                }
+            ],
+            [
+                {
+                    "verse": " Ogni gioia ch'è più rara"
+                },
+                {
+                    "verse": "tenut'è più preziosa,"
+                },
+                {
+                    "verse": "ancora che non sia cara"
+                },
+                {
+                    "verse": "de l'altr'è più graziosa;"
+                },
+                {
+                    "verse": "ca s'este orientale"
+                },
+                {
+                    "verse": "lo zafiro asai più vale,"
+                },
+                {
+                    "verse": "ed à meno di vertute:"
+                },
+                {
+                    "verse": "e per zo ne le merzede"
+                },
+                {
+                    "verse": "lo mio core non v'accede,"
+                },
+                {
+                    "verse": "perché l'uso l'à 'nvilute."
+                }
+            ],
+            [
+                {
+                    "verse": " 'Nviluto li scolosmini"
+                },
+                {
+                    "verse": "di quel tempo ricordato,"
+                },
+                {
+                    "verse": "ch'erano sì gai e fini,"
+                },
+                {
+                    "verse": "nulla gioi nonn-è trovato."
+                },
+                {
+                    "verse": "E·lle merzé siano strette,"
+                },
+                {
+                    "verse": "nulla parte non sian dette"
+                },
+                {
+                    "verse": "perché paian gioie nove;"
+                },
+                {
+                    "verse": "nulla parte sian trovate"
+                },
+                {
+                    "verse": "né dagli amador chiamate"
+                },
+                {
+                    "verse": "infin che compie anni nove."
+                }
+            ],
+            [
+                {
+                    "verse": " Senza merze[de] potete"
+                },
+                {
+                    "verse": "saver, bella, 'l meo disio,"
+                },
+                {
+                    "verse": "c'assai meglio mi vedete"
+                },
+                {
+                    "verse": "ch'io medesmo non mi veo;"
+                },
+                {
+                    "verse": "e però s'a voi paresse"
+                },
+                {
+                    "verse": "altro ch'esser non dovesse"
+                },
+                {
+                    "verse": "per lo vostro amore avere,"
+                },
+                {
+                    "verse": "unque gioi non ci perdiate."
+                },
+                {
+                    "verse": "Cusì volete amistate?"
+                },
+                {
+                    "verse": "Inanzi voria morire."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 4,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " La 'namoranza —disiosa"
+                },
+                {
+                    "verse": "che dentro a l[o] mi' cor è nata"
+                },
+                {
+                    "verse": "di voi, madonna, è pur chiamata,"
+                },
+                {
+                    "verse": "merzé se fusse aventurosa."
+                },
+                {
+                    "verse": "E poi ch'i' non trovo pietanza,"
+                },
+                {
+                    "verse": " per paura o per dottare"
+                },
+                {
+                    "verse": "s'io perdo amare,"
+                },
+                {
+                    "verse": "Amor comanda ch'io faccia arditanza."
+                }
+            ],
+            [
+                {
+                    "verse": " Grande arditanza —e coraggiosa"
+                },
+                {
+                    "verse": "in guiderdone Amor m'à data,"
+                },
+                {
+                    "verse": "e vuol che donna sia 'quistata"
+                },
+                {
+                    "verse": "per forza di gioia amorosa:"
+                },
+                {
+                    "verse": "ma' troppo è villana credanza"
+                },
+                {
+                    "verse": "che donna deggia incominzare,"
+                },
+                {
+                    "verse": "ma vergognare"
+                },
+                {
+                    "verse": "perch'io cominzi non è mispregianza."
+                }
+            ],
+            [
+                {
+                    "verse": " Di mispregianza —Amor mi scusa,"
+                },
+                {
+                    "verse": "se gioia per me e cominzata"
+                },
+                {
+                    "verse": "di voi che tant'ò disiata,"
+                },
+                {
+                    "verse": "e sonne in vita cordogliosa;"
+                },
+                {
+                    "verse": "ca, bella, sanza dubitanza,"
+                },
+                {
+                    "verse": "tutte fiate in voi mirare,"
+                },
+                {
+                    "verse": "veder mi pare"
+                },
+                {
+                    "verse": "una maraviliosa simiglianza."
+                }
+            ],
+            [
+                {
+                    "verse": " Tanto siete maravigliosa"
+                },
+                {
+                    "verse": "quand'i' v'ò bene affigurata"
+                },
+                {
+                    "verse": "c'altro parete che 'ncarnata,"
+                },
+                {
+                    "verse": "se non ch'io spero in voi, gioiosa;"
+                },
+                {
+                    "verse": "ma tanto tarda la speranza,"
+                },
+                {
+                    "verse": "solamente per [voi] dottare"
+                },
+                {
+                    "verse": "o i malparlare,"
+                },
+                {
+                    "verse": "Amor non vuol ch'io perda mia intendanza."
+                }
+            ],
+            [
+                {
+                    "verse": " Molt'è gran cosa ed inoiosa"
+                },
+                {
+                    "verse": "chi vede ciò che più li agrata,"
+                },
+                {
+                    "verse": "e via d'un passo è più dotata"
+                },
+                {
+                    "verse": "che d'Oltremare in Saragosa"
+                },
+                {
+                    "verse": "e di bataglia, ov'om si lanza"
+                },
+                {
+                    "verse": "a spad'e lanza, in terra o mare,"
+                },
+                {
+                    "verse": "e non pensare"
+                },
+                {
+                    "verse": "di bandire una donna per dottanza."
+                }
+            ],
+            [
+                {
+                    "verse": " Nulla bandita m'è dottosa"
+                },
+                {
+                    "verse": "se non di voi, donna pregiata,"
+                },
+                {
+                    "verse": "c'anti vorria morir di spata"
+                },
+                {
+                    "verse": "ch'i' voi vedesse currucciosa;"
+                },
+                {
+                    "verse": "ma tanto avete caunoscianza,"
+                },
+                {
+                    "verse": "ben mi dovreste perdonare"
+                },
+                {
+                    "verse": "e comportare,"
+                },
+                {
+                    "verse": "s'io perdo gioi che, 'sso, m'aucide amanza."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 5,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Ben m'è venuto prima cordoglienza,"
+                },
+                {
+                    "verse": "poi benvoglienza —orgoglio m'è rendente"
+                },
+                {
+                    "verse": "di voi, madonna, contr'a mia soffrenza:"
+                },
+                {
+                    "verse": "non è valenza —far male a sofrente."
+                },
+                {
+                    "verse": "Tant'è potente —vostra signoria,"
+                },
+                {
+                    "verse": "c'avendo male più v'amo ogni dia:"
+                },
+                {
+                    "verse": "però tuttor la tropp'asicuranza"
+                },
+                {
+                    "verse": "ubria caunoscenza e onoranza."
+                }
+            ],
+            [
+                {
+                    "verse": " Adunque, amor, ben fora convenenza,"
+                },
+                {
+                    "verse": "d'aver temenza —como l'altra gente,"
+                },
+                {
+                    "verse": "che tornano la lor discaunoscenza"
+                },
+                {
+                    "verse": "a la credenza —de lo benvogliente:"
+                },
+                {
+                    "verse": "chi è temente —fugge villania,"
+                },
+                {
+                    "verse": "e per coverta tal fa cortesia,"
+                },
+                {
+                    "verse": "ch'eo non vorria da voi, donna, semblanza"
+                },
+                {
+                    "verse": "se da lo cor non vi venisse amanza."
+                }
+            ],
+            [
+                {
+                    "verse": " E chi a torto batte o fa increscenza,"
+                },
+                {
+                    "verse": "di far plagenza —penza, poi si pente:"
+                },
+                {
+                    "verse": "però mi pasco di bona credenza,"
+                },
+                {
+                    "verse": "c'Amor comenza —prim'a dar tormente;"
+                },
+                {
+                    "verse": "dunque più gente —seria la gioi mia,"
+                },
+                {
+                    "verse": "se per soffrir l'orgoglio s'umilìa"
+                },
+                {
+                    "verse": "e la ferezza torna in pietanza;"
+                },
+                {
+                    "verse": "be·llo pò fare Amor, ch'ell'è su' usanza."
+                }
+            ],
+            [
+                {
+                    "verse": " Eo non vi faccio, donna, contendenza,"
+                },
+                {
+                    "verse": "ma ubidenza, —e amo coralmente;"
+                },
+                {
+                    "verse": "però non deggio planger penitenza,"
+                },
+                {
+                    "verse": "ca nullo senza —colpa è penitente."
+                },
+                {
+                    "verse": "Naturalmente —avene tuttavia"
+                },
+                {
+                    "verse": "c'omo s'orgoglia a chi lo contrarìa;"
+                },
+                {
+                    "verse": "ma vostr'orgoglio passa sorcoitanza,"
+                },
+                {
+                    "verse": "che dismisura contr'a umilianza."
+                }
+            ],
+            [
+                {
+                    "verse": " E voi che sete senza percepenza,"
+                },
+                {
+                    "verse": "como Florenza —che d'orgoglio sente,"
+                },
+                {
+                    "verse": "guardate a Pisa di gran canoscenza,"
+                },
+                {
+                    "verse": "che teme 'ntenza —d'orgogliosa gente:"
+                },
+                {
+                    "verse": "sì lungiamente —orgoglio m'à in bailia,"
+                },
+                {
+                    "verse": "Melan'a lo carroccio par che sia;"
+                },
+                {
+                    "verse": "e si si tarda l'umile speranza,"
+                },
+                {
+                    "verse": "chi sofra vince e scompra ogni tardanza."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 6,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Donna, eo languisco e no so qua·speranza"
+                },
+                {
+                    "verse": "mi dà fidanza —ch'io non mi disfidi;"
+                },
+                {
+                    "verse": "e se merzé e pietanza in voi non trovo,"
+                },
+                {
+                    "verse": "perduta provo —lo chiamar merzede;"
+                },
+                {
+                    "verse": "che tanto lungiamente ò custumato,"
+                },
+                {
+                    "verse": "palese ed in celato,"
+                },
+                {
+                    "verse": "pur di merzé cherere,"
+                },
+                {
+                    "verse": "ch'i' non·ssaccio altro dire;"
+                },
+                {
+                    "verse": "e s'altri m'adomanda ched aggio eo,"
+                },
+                {
+                    "verse": "eo non so dir se non «Merzé, per Deo!»"
+                }
+            ],
+            [
+                {
+                    "verse": " Amore non fue giusto partitore,"
+                },
+                {
+                    "verse": "ch'io pur v'adore —e voi non mi 'ntendate:"
+                },
+                {
+                    "verse": "sì com'eo presi a voi merzé chiamare,"
+                },
+                {
+                    "verse": "ben dovea dare —a voi cor di pietate;"
+                },
+                {
+                    "verse": "ca tutesor cad eo merzé chiamasse,"
+                },
+                {
+                    "verse": "in voi, donna, trovasse"
+                },
+                {
+                    "verse": "gran core d'umiltate;"
+                },
+                {
+                    "verse": "se non tut[t]e fiate"
+                },
+                {
+                    "verse": "facestemi a lo meno esta 'mistanza,"
+                },
+                {
+                    "verse": "mille merzé valesse una pietanza."
+                }
+            ],
+            [
+                {
+                    "verse": " Donna, gran maraviglia mi donate,"
+                },
+                {
+                    "verse": "che 'n voi sembrate —sono tanto alore:"
+                },
+                {
+                    "verse": "passate di bellezze ogn'altra cosa,"
+                },
+                {
+                    "verse": "come la rosa —passa ogn'altro fiore;"
+                },
+                {
+                    "verse": "e l'adornezze quali v'acompagna"
+                },
+                {
+                    "verse": "lo cor mi lancia e sagna;"
+                },
+                {
+                    "verse": "[e] per mi sta asai plui,"
+                },
+                {
+                    "verse": "merzé che nonn-è in voi;"
+                },
+                {
+                    "verse": "e se merzé con voi, bella, statesse,"
+                },
+                {
+                    "verse": "null'altra valenza più mi valesse."
+                }
+            ],
+            [
+                {
+                    "verse": " Non mi ricredo di merzé chiamare,"
+                },
+                {
+                    "verse": "câ contare —audivi a molta gente"
+                },
+                {
+                    "verse": "che lo leone este di tale usato"
+                },
+                {
+                    "verse": "che quand'è airato —più fellona-mente,"
+                },
+                {
+                    "verse": "per cosa c'omo face si ricrede"
+                },
+                {
+                    "verse": "[i·]segno di merzede:"
+                },
+                {
+                    "verse": "per merzé gira in pace."
+                },
+                {
+                    "verse": "Gentile ira mi piace,"
+                },
+                {
+                    "verse": "ond'io per mercé faccio ogne mi' fatto,"
+                },
+                {
+                    "verse": "ca per mercé s'apaga un gran misfatto."
+                }
+            ],
+            [
+                {
+                    "verse": " Come quelli che·ffanno a·llor nemici,"
+                },
+                {
+                    "verse": "c'ogn'om mi dici: —«merzede ò trovato»,"
+                },
+                {
+                    "verse": "ed io che·ffaccio, così ratto provo"
+                },
+                {
+                    "verse": "e non trovo —merzede in cui son dato."
+                },
+                {
+                    "verse": "Madonna, in voi nonn-aquistai gran preio"
+                },
+                {
+                    "verse": "se non pur[e] lo peio:"
+                },
+                {
+                    "verse": "e per ciò sì c'om batte"
+                },
+                {
+                    "verse": " in altrui fatte,"
+                },
+                {
+                    "verse": "e s'egli 'n altro vince, in questo perde;"
+                },
+                {
+                    "verse": "e 'n voi chi più ci pensa più ci sperde."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 7,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Troppo son dimorato"
+                },
+                {
+                    "verse": "i·llontano paese:"
+                },
+                {
+                    "verse": "non so in che guisa possa soferire,"
+                },
+                {
+                    "verse": "che son cotanto stato"
+                },
+                {
+                    "verse": "senza in cui si mise"
+                },
+                {
+                    "verse": "tutte bellezze d'amore e servire."
+                },
+                {
+                    "verse": "Molto tardi mi pento,"
+                },
+                {
+                    "verse": "e dico che follia"
+                },
+                {
+                    "verse": "me n'à fatto alungare;"
+                },
+                {
+                    "verse": "lasso, ben veggio e sento,"
+                },
+                {
+                    "verse": "mort'e' fusse, dovria"
+                },
+                {
+                    "verse": "a madonna tornare."
+                }
+            ],
+            [
+                {
+                    "verse": " Ca s'io sono alungato,"
+                },
+                {
+                    "verse": "a null'om non afesi"
+                },
+                {
+                    "verse": "quant'a me solo, ed i' ne so' al perire;"
+                },
+                {
+                    "verse": "io ne so' il danneggiato"
+                },
+                {
+                    "verse": "poi madonna misfesi"
+                },
+                {
+                    "verse": "mio è 'l dannaggio ed ogne languire;"
+                },
+                {
+                    "verse": "ca lo suo avenimento"
+                },
+                {
+                    "verse": "d'amar mi travaglìa,"
+                },
+                {
+                    "verse": "e comandami a dare,"
+                },
+                {
+                    "verse": "a quella a cui consento,"
+                },
+                {
+                    "verse": "core e corpo in baglìa,"
+                },
+                {
+                    "verse": "e nulla non mi pare."
+                }
+            ],
+            [
+                {
+                    "verse": " Dunqua son io sturduto?"
+                },
+                {
+                    "verse": "Ciò saccio certamente,"
+                },
+                {
+                    "verse": "con' quelli c'à cercato ciò che tene,"
+                },
+                {
+                    "verse": "così m'è adivenuto,"
+                },
+                {
+                    "verse": "che, lasso, l'avenente"
+                },
+                {
+                    "verse": "eo vo cercando, ed ò noie e pene."
+                },
+                {
+                    "verse": "Cotanto n'ò dolore"
+                },
+                {
+                    "verse": "e vengiamento e doglia,"
+                },
+                {
+                    "verse": "vedere non potere"
+                },
+                {
+                    "verse": "cotanto di dolzore"
+                },
+                {
+                    "verse": "amore e bona voglia,"
+                },
+                {
+                    "verse": "ch'io l'ò creduto avere."
+                }
+            ],
+            [
+                {
+                    "verse": " Deo, com'aggio falluto,"
+                },
+                {
+                    "verse": "che cusì lungiamente"
+                },
+                {
+                    "verse": "non son tornato a la mia donn' a spene!"
+                },
+                {
+                    "verse": "Lasso, chi m'à tenuto?"
+                },
+                {
+                    "verse": "Follia dilivramente,"
+                },
+                {
+                    "verse": "che m'à levato da gioia e di bene."
+                },
+                {
+                    "verse": "Ochi e talento e core"
+                },
+                {
+                    "verse": "ciascun per sé s'argoglia,"
+                },
+                {
+                    "verse": "disiando vedere"
+                },
+                {
+                    "verse": "madonna mia a tuttore,"
+                },
+                {
+                    "verse": "quella che non s'argoglia"
+                },
+                {
+                    "verse": "inver' lei lo mio volere."
+                }
+            ],
+            [
+                {
+                    "verse": " Non vo' più soferenza,"
+                },
+                {
+                    "verse": "né dimorare oimai"
+                },
+                {
+                    "verse": "senza madonna, di cui moro stando;"
+                },
+                {
+                    "verse": "c'Amor mi move 'ntenza"
+                },
+                {
+                    "verse": "e dicemi: «che·ffai?"
+                },
+                {
+                    "verse": "la tua donna si muor di te aspettando»."
+                },
+                {
+                    "verse": "Questo detto mi lanza,"
+                },
+                {
+                    "verse": "e fammi trangosciare"
+                },
+                {
+                    "verse": "sì lo core, moraggio"
+                },
+                {
+                    "verse": "se più faccio tardanza:"
+                },
+                {
+                    "verse": "tosto farò reo stare"
+                },
+                {
+                    "verse": "di lei e di me dannaggio."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 8,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Non so se 'n gioia mi sia"
+                },
+                {
+                    "verse": "d'amor la mia intendanza"
+                },
+                {
+                    "verse": "inver' la "
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 9,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Uno disio d'amore sovente"
+                },
+                {
+                    "verse": "mi ten la mente,"
+                },
+                {
+                    "verse": "temer mi face e miso m'à in erranza;"
+                },
+                {
+                    "verse": "non saccio s'io lo taccia o dica nente"
+                },
+                {
+                    "verse": "di voi, più gente:"
+                },
+                {
+                    "verse": "no vi dispiaccia, tant'ò dubitanza."
+                },
+                {
+                    "verse": "Ca s'eo lo taccio vivo in penetenza,"
+                },
+                {
+                    "verse": "c'amor mi 'ntenza"
+                },
+                {
+                    "verse": "di ciò che pò avenire,"
+                },
+                {
+                    "verse": "[e] poria romanere"
+                },
+                {
+                    "verse": "in danno che poria sortire a manti,"
+                },
+                {
+                    "verse": "se·llor è detto: «guardisi davanti»."
+                }
+            ],
+            [
+                {
+                    "verse": " E s'eo lo dico, temo molto piue"
+                },
+                {
+                    "verse": "non spiaccia a voi,"
+                },
+                {
+                    "verse": "a cui servir mi sforzo, donna fina;"
+                },
+                {
+                    "verse": "ca semo, per leanza ch'è 'ntra noi,"
+                },
+                {
+                    "verse": "d'uno cor dui:"
+                },
+                {
+                    "verse": "temer mi face Amor[e] che mi mena."
+                },
+                {
+                    "verse": "E se la mia temenza penserete,"
+                },
+                {
+                    "verse": "più m'amerete,"
+                },
+                {
+                    "verse": "[per]ché le mie paure"
+                },
+                {
+                    "verse": "non son se non d'amore:"
+                },
+                {
+                    "verse": "chi ciò non teme, male amar poria,"
+                },
+                {
+                    "verse": "e tutta mia paura è gelosia."
+                }
+            ],
+            [
+                {
+                    "verse": " Geloso sono d'amor m'adovene,"
+                },
+                {
+                    "verse": "così mi stene,"
+                },
+                {
+                    "verse": "c'Amore è piena cosa di paura;"
+                },
+                {
+                    "verse": "e chi bene ama una cosa che tene,"
+                },
+                {
+                    "verse": "vive 'nde in pene,"
+                },
+                {
+                    "verse": "che teme no la perda per ventura."
+                },
+                {
+                    "verse": "Donqu'è ragion ch'eo trovi pietanza"
+                },
+                {
+                    "verse": "e perdonanza,"
+                },
+                {
+                    "verse": "ca s'eo in voi troppo isparlo"
+                },
+                {
+                    "verse": "non son[o] eo che parlo:"
+                },
+                {
+                    "verse": "Amore è che tacente fa tornare"
+                },
+                {
+                    "verse": "lo ben parlante, e lo muto parlare."
+                }
+            ],
+            [
+                {
+                    "verse": " Donqua s'Amore non vole ch'eo taccia,"
+                },
+                {
+                    "verse": "non vi dispiaccia"
+                },
+                {
+                    "verse": "s'Amore è d'uno folle pensamento."
+                },
+                {
+                    "verse": "Quell'è la gioia che più mi solazza,"
+                },
+                {
+                    "verse": "par che mi sfazza,"
+                },
+                {
+                    "verse": "ch'eo ebbi di voi, donna, compimento."
+                },
+                {
+                    "verse": "Ma no·l vorria avere avuto intando"
+                },
+                {
+                    "verse": "che vo pensando,"
+                },
+                {
+                    "verse": "e convenmi partire,"
+                },
+                {
+                    "verse": "in altra parte gire:"
+                },
+                {
+                    "verse": "la gioi che di voi, donna, aggio avuta,"
+                },
+                {
+                    "verse": "no la mi credo aver mai sì compiuta."
+                }
+            ],
+            [
+                {
+                    "verse": " Per ciò vorria ch'eo l'avesse ad avere,"
+                },
+                {
+                    "verse": "ed a vedere,"
+                },
+                {
+                    "verse": "che di ciò nasce che mi discoraia:"
+                },
+                {
+                    "verse": "non adovegna con' al mio temere"
+                },
+                {
+                    "verse": "(vergogna è a dire),"
+                },
+                {
+                    "verse": "che sicuranza ormai nulla no 'nd'aia."
+                },
+                {
+                    "verse": "Ma sì io son folle ne lo mio pensare"
+                },
+                {
+                    "verse": "per troppo amare,"
+                },
+                {
+                    "verse": "ca spero in voi, avenente,"
+                },
+                {
+                    "verse": "ch'eo non serò perdente:"
+                },
+                {
+                    "verse": "sì come da voi ebbi guiderdone,"
+                },
+                {
+                    "verse": "mi traggerete fuor d'ogne casone."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 10,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Amando lungiamente,"
+                },
+                {
+                    "verse": "disio ch'io vedesse"
+                },
+                {
+                    "verse": "quell'ora ch'io piacesse"
+                },
+                {
+                    "verse": "com'io valesse —a voi, donna valente."
+                },
+                {
+                    "verse": "Meravigliosamente"
+                },
+                {
+                    "verse": "mi sforzo s'io potesse"
+                },
+                {
+                    "verse": "ch'io cotanto valesse,"
+                },
+                {
+                    "verse": "c'a voi paresse —lo mio affar piacente."
+                },
+                {
+                    "verse": "Vorria servire a piacimento"
+                },
+                {
+                    "verse": "là 'v'è tutto piacere,"
+                },
+                {
+                    "verse": "e convertire —lo meo parlamento"
+                },
+                {
+                    "verse": "a ciò ch'eo sento:"
+                },
+                {
+                    "verse": "per intendanza de le mie parole"
+                },
+                {
+                    "verse": "veggiate come lo meo cor si dole."
+                }
+            ],
+            [
+                {
+                    "verse": " Non dole c'aggia doglia,"
+                },
+                {
+                    "verse": "madonna, in voi amare,"
+                },
+                {
+                    "verse": "anti mi fa allegrare"
+                },
+                {
+                    "verse": "in voi pensare —l'amorosa voglia:"
+                },
+                {
+                    "verse": "con gioi par che m'acoglia"
+                },
+                {
+                    "verse": "lo vostro innamorare,"
+                },
+                {
+                    "verse": "e per dolce aspettare"
+                },
+                {
+                    "verse": "veder mi pare —ciò che mi s'orgoglia."
+                },
+                {
+                    "verse": "Ma d'una cosa mi cordoglio,"
+                },
+                {
+                    "verse": "ch'eo non so in veritate"
+                },
+                {
+                    "verse": "che voi sacciate —lo ben ch'eo vi voglio:"
+                },
+                {
+                    "verse": "a ciò mi doglio,"
+                },
+                {
+                    "verse": "non posso dir di cento parti l'una"
+                },
+                {
+                    "verse": "l'amor ch'eo porto a la vostra persona."
+                }
+            ],
+            [
+                {
+                    "verse": " Se l'amor ch'eo vi porto"
+                },
+                {
+                    "verse": "non posso dire in tutto,"
+                },
+                {
+                    "verse": "vagliami alcun bon motto,"
+                },
+                {
+                    "verse": "che per un frutto —piace tutto un orto,"
+                },
+                {
+                    "verse": "e per un bon conforto"
+                },
+                {
+                    "verse": "si lassa un gran corrotto"
+                },
+                {
+                    "verse": "e ritorna in disdutto"
+                },
+                {
+                    "verse": "(a ciò non dotto) —tal speranz'a porto."
+                },
+                {
+                    "verse": "E se alcun torto mi vedete,"
+                },
+                {
+                    "verse": "ponete mente a voi,"
+                },
+                {
+                    "verse": "che bella piu[i] —per orgoglio siete;"
+                },
+                {
+                    "verse": "che [ben] sapete"
+                },
+                {
+                    "verse": "c'orgoglio non è gioi, ma voi convene"
+                },
+                {
+                    "verse": "e tutto quanto veggio a voi sta bene."
+                }
+            ],
+            [
+                {
+                    "verse": " E tutto quanto veggio"
+                },
+                {
+                    "verse": "mi pare avenantezze"
+                },
+                {
+                    "verse": "[e] somma di bellezze;"
+                },
+                {
+                    "verse": "altre ricchezze —né gio' non disio."
+                },
+                {
+                    "verse": "E nulla donna veo"
+                },
+                {
+                    "verse": "c'aggia tante adornezze"
+                },
+                {
+                    "verse": "che le vostre altezze"
+                },
+                {
+                    "verse": "non bassezze, —là unde\ninnamorio."
+                },
+                {
+                    "verse": "E se , madonna mia,"
+                },
+                {
+                    "verse": "amasse io voi e voi meve,"
+                },
+                {
+                    "verse": "se fosse neve —foco mi parria,"
+                },
+                {
+                    "verse": "e notte e dia"
+                },
+                {
+                    "verse": "e tuttavia —mentre c'avraggio amore;"
+                },
+                {
+                    "verse": "e chi ben ama ritorna in dolore."
+                }
+            ],
+            [
+                {
+                    "verse": " Non so com'eo vi paro"
+                },
+                {
+                    "verse": "né che di me farete;"
+                },
+                {
+                    "verse": "ancider mi potrete"
+                },
+                {
+                    "verse": "e no mi trovarete —core varo"
+                },
+                {
+                    "verse": "ma tuttavia d'un airo,"
+                },
+                {
+                    "verse": "cotanto mi piacete;"
+                },
+                {
+                    "verse": "e morto mi vedete"
+                },
+                {
+                    "verse": "se no m'avrete —a l[o] vostro riparo:"
+                },
+                {
+                    "verse": "a lo conforto di pietanza"
+                },
+                {
+                    "verse": "che incozzi a l[o] core,"
+                },
+                {
+                    "verse": "e li occhi fore —piangano d'amanza"
+                },
+                {
+                    "verse": "e d'allegranza:"
+                },
+                {
+                    "verse": "con abondanza —de lo dolce pianto"
+                },
+                {
+                    "verse": "lo bel visaggio bagni tutto quanto."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 11,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Madonna mia, a voi mando"
+                },
+                {
+                    "verse": "in gioi li mei sospiri,"
+                },
+                {
+                    "verse": "ca lungiamente amando"
+                },
+                {
+                    "verse": "non vi porea mai dire"
+                },
+                {
+                    "verse": "com'era vostro amante"
+                },
+                {
+                    "verse": "e lealmente amava,"
+                },
+                {
+                    "verse": "e però ch'eo dottava"
+                },
+                {
+                    "verse": "non vo facea sembrante."
+                }
+            ],
+            [
+                {
+                    "verse": " Tanto set'alta e grande"
+                },
+                {
+                    "verse": "ch'eo v'amo pur dottando,"
+                },
+                {
+                    "verse": "e non so cui vo mande"
+                },
+                {
+                    "verse": "per messaggio parlando,"
+                },
+                {
+                    "verse": "und'eo prego l'Amore,"
+                },
+                {
+                    "verse": "a cui prega ogni amanti,"
+                },
+                {
+                    "verse": "li mei sospiri e pianti"
+                },
+                {
+                    "verse": "vo pungano lo core."
+                }
+            ],
+            [
+                {
+                    "verse": " Ben vorria, s'eo potesse,"
+                },
+                {
+                    "verse": "quanti sospiri getto,"
+                },
+                {
+                    "verse": "c'ogni sospiro avesse"
+                },
+                {
+                    "verse": "spirito e intelletto,"
+                },
+                {
+                    "verse": "c'a voi, donna, d'amare"
+                },
+                {
+                    "verse": "dimandasser pietanza,"
+                },
+                {
+                    "verse": "da poi ch'e' per dottanza"
+                },
+                {
+                    "verse": "non vo posso parlare."
+                }
+            ],
+            [
+                {
+                    "verse": " Voi, donna, m'aucidete"
+                },
+                {
+                    "verse": "e allegiate a penare:"
+                },
+                {
+                    "verse": "da poi che voi vedete"
+                },
+                {
+                    "verse": "ch'io vo dotto parlare,"
+                },
+                {
+                    "verse": "perché non mi mandate"
+                },
+                {
+                    "verse": "tuttavia confortando,"
+                },
+                {
+                    "verse": "ch'eo non desperi amando"
+                },
+                {
+                    "verse": "de la vostra 'mistate?"
+                }
+            ],
+            [
+                {
+                    "verse": " Vostra cera plagente,"
+                },
+                {
+                    "verse": "mercé quando vo chiamo,"
+                },
+                {
+                    "verse": "m'incalcia fortemente"
+                },
+                {
+                    "verse": "ch'io v'ami più ch'io v'amo,"
+                },
+                {
+                    "verse": "ch'io non vi poteria"
+                },
+                {
+                    "verse": "più coralmente amare,"
+                },
+                {
+                    "verse": "ancor che più penare"
+                },
+                {
+                    "verse": "poria, sì, donna mia."
+                }
+            ],
+            [
+                {
+                    "verse": " In gran dilettanz'era,"
+                },
+                {
+                    "verse": "madonna, in quello giorno"
+                },
+                {
+                    "verse": "quando ti formai in cera"
+                },
+                {
+                    "verse": "le bellezze d'intorno:"
+                },
+                {
+                    "verse": "più bella mi parete"
+                },
+                {
+                    "verse": "ca Isolda la bronda,"
+                },
+                {
+                    "verse": "amorosa gioconda"
+                },
+                {
+                    "verse": "che sovr'ogn'altra sete."
+                }
+            ],
+            [
+                {
+                    "verse": " Ben sai che son vostr'omo,"
+                },
+                {
+                    "verse": "s'a voi non dispiacesse,"
+                },
+                {
+                    "verse": "ancora che 'l meo nomo,"
+                },
+                {
+                    "verse": "madonna, non dicesse:"
+                },
+                {
+                    "verse": "per vostro amor fui nato,"
+                },
+                {
+                    "verse": "nato fui da Lentino;"
+                },
+                {
+                    "verse": "dunqua debb'esser fino,"
+                },
+                {
+                    "verse": "da poi c'a voi son dato."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 12,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " S'io doglio no è meraviglia"
+                },
+                {
+                    "verse": "e s'io sospiro e lamento:"
+                },
+                {
+                    "verse": "amor lontano mi piglia"
+                },
+                {
+                    "verse": "dogliosa pena ch'eo sento,"
+                },
+                {
+                    "verse": "membrando ch'eo sia diviso"
+                },
+                {
+                    "verse": "di veder[e] lo bel viso"
+                },
+                {
+                    "verse": "per cui peno e sto 'n tormento."
+                }
+            ],
+            [
+                {
+                    "verse": " Allegranza lo vedere"
+                },
+                {
+                    "verse": "mi donava proximano,"
+                },
+                {
+                    "verse": "lo contrario deggio avere"
+                },
+                {
+                    "verse": "ch'eo ne son fatto lontano."
+                },
+                {
+                    "verse": "S'eo veggendo avea allegranza,"
+                },
+                {
+                    "verse": "or no la veggio ò pesanza"
+                },
+                {
+                    "verse": "mi distringe e tene mano."
+                }
+            ],
+            [
+                {
+                    "verse": " Lo meo core eo l'aio lassato"
+                },
+                {
+                    "verse": "a la dolze donna mia:"
+                },
+                {
+                    "verse": "dogliomi ch'eo so' allungiato"
+                },
+                {
+                    "verse": "da sì dolze compagnia;"
+                },
+                {
+                    "verse": "co·madonna sta lo core,"
+                },
+                {
+                    "verse": "che de lo meo petto è fore,"
+                },
+                {
+                    "verse": "e dimora in sua bailia."
+                }
+            ],
+            [
+                {
+                    "verse": " Dogliomi e adiro sovente"
+                },
+                {
+                    "verse": "de lo core che dimora"
+                },
+                {
+                    "verse": "con madonna mia avenente,"
+                },
+                {
+                    "verse": "in sì gran bona-ventura:"
+                },
+                {
+                    "verse": "odio e invidio tale affare,"
+                },
+                {
+                    "verse": "che con lei non posso stare"
+                },
+                {
+                    "verse": "né veder la sua figura."
+                }
+            ],
+            [
+                {
+                    "verse": " Sovente mi doglio e adiro,"
+                },
+                {
+                    "verse": "fuggir mi fanno allegrezze;"
+                },
+                {
+                    "verse": "tuttavia raguardo e miro"
+                },
+                {
+                    "verse": "le suoe adornate fattezze,"
+                },
+                {
+                    "verse": "lo bel viso e l'ornamento"
+                },
+                {
+                    "verse": "e lo dolze parlamento,"
+                },
+                {
+                    "verse": "occhi, ahi, vaghi e bronde trezze."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 13,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Amore, paura m'incalcia"
+                },
+                {
+                    "verse": "in manti lochi aventurosi"
+                },
+                {
+                    "verse": ""
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 14,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Poi no mi val merzé né ben servire"
+                },
+                {
+                    "verse": "inver' mia donna, in cui tegno speranza"
+                },
+                {
+                    "verse": "e amo lealmente,"
+                },
+                {
+                    "verse": "non so che cosa mi possa valere:"
+                },
+                {
+                    "verse": "se di me no le prende pietanza,"
+                },
+                {
+                    "verse": "ben morrò certamente."
+                },
+                {
+                    "verse": "Per nente —mi cangiao lo suo talento,"
+                },
+                {
+                    "verse": "und'eo tormento —e vivo in gran dottanza,"
+                },
+                {
+                    "verse": "e son di molte pene sofferente."
+                }
+            ],
+            [
+                {
+                    "verse": " Sofferente seraggio al so piacere,"
+                },
+                {
+                    "verse": "di bon[o] core e di pura leanza"
+                },
+                {
+                    "verse": "la servo umilemente:"
+                },
+                {
+                    "verse": "anzi vorrea per ella pena avere"
+                },
+                {
+                    "verse": "che per null'altra bene con baldanza,"
+                },
+                {
+                    "verse": "tanto le so' ubidente."
+                },
+                {
+                    "verse": "Ardente —son di far suo piacimento,"
+                },
+                {
+                    "verse": "e mai no alento —d'aver sua membranza,"
+                },
+                {
+                    "verse": "in quella in cui disio spessamente."
+                }
+            ],
+            [
+                {
+                    "verse": " Spessamente disio e sto al morire,"
+                },
+                {
+                    "verse": "membrando che m'à miso in ubrianza"
+                },
+                {
+                    "verse": "l'amorosa piacente;"
+                },
+                {
+                    "verse": "senza misfatto no·m dovea punire,"
+                },
+                {
+                    "verse": "di far partenza de la nostra amanza,"
+                },
+                {
+                    "verse": "poi tant'è caunoscente."
+                },
+                {
+                    "verse": "Temente —so' e non ò confortamento,"
+                },
+                {
+                    "verse": "poi valimento —no·m dà, ma pesanza,"
+                },
+                {
+                    "verse": "e fallami di tutto 'l suo conventi."
+                }
+            ],
+            [
+                {
+                    "verse": " Conventi mi fece di ritenere"
+                },
+                {
+                    "verse": "e donaomi una gio' per rimembranza,"
+                },
+                {
+                    "verse": "ch'eo stesse allegramente."
+                },
+                {
+                    "verse": "Or la m'à tolta per troppo savere,"
+                },
+                {
+                    "verse": "dice che 'n altra parte ò mia 'ntendanza,"
+                },
+                {
+                    "verse": "ciò so veracemente:"
+                },
+                {
+                    "verse": "non sente —lo meo cor tal fallimento,"
+                },
+                {
+                    "verse": "né ò talento —di far misleanza,"
+                },
+                {
+                    "verse": "ch'eo la cangi per altra al meo vivente."
+                }
+            ],
+            [
+                {
+                    "verse": " Vivente donna non creo che partire"
+                },
+                {
+                    "verse": "potesse lo mio cor di sua possanza,"
+                },
+                {
+                    "verse": "non fosse sì avenente,"
+                },
+                {
+                    "verse": "perch'io lasciar volesse d'ubidire"
+                },
+                {
+                    "verse": "quella che pregio e bellezze inavanza"
+                },
+                {
+                    "verse": "e fami star sovente"
+                },
+                {
+                    "verse": "la mente —d'amoroso pensamento:"
+                },
+                {
+                    "verse": "non aggio abento, —tanto 'l cor mi lanza"
+                },
+                {
+                    "verse": "co li riguardi degli occhi ridente."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 15,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Dolce coninzamento"
+                },
+                {
+                    "verse": "canto per la più fina"
+                },
+                {
+                    "verse": "che sia, al mio parimento,"
+                },
+                {
+                    "verse": "d'Agri infino in Mesina;"
+                },
+                {
+                    "verse": "cioè la più avenente:"
+                },
+                {
+                    "verse": "o stella rilucente"
+                },
+                {
+                    "verse": "che levi la maitina!"
+                },
+                {
+                    "verse": "quando m'apar davanti,"
+                },
+                {
+                    "verse": "li suo' dolzi sembianti"
+                },
+                {
+                    "verse": "m'incendon la corina."
+                }
+            ],
+            [
+                {
+                    "verse": " «Dolce meo sir, se 'ncendi,"
+                },
+                {
+                    "verse": "or io che deggio fare?"
+                },
+                {
+                    "verse": "Tu stesso mi riprendi"
+                },
+                {
+                    "verse": "se mi vei favellare;"
+                },
+                {
+                    "verse": "ca tu m'ài 'namorata,"
+                },
+                {
+                    "verse": "a lo cor m'ài lanciata,"
+                },
+                {
+                    "verse": "sì ca difor non pare;"
+                },
+                {
+                    "verse": "rimembriti a la fiata"
+                },
+                {
+                    "verse": "quand'io t'ebi abrazzata"
+                },
+                {
+                    "verse": "a li dolzi baciarti»."
+                }
+            ],
+            [
+                {
+                    "verse": " Ed io baciando stava"
+                },
+                {
+                    "verse": "in gran diletamento"
+                },
+                {
+                    "verse": "con quella che m'amava,"
+                },
+                {
+                    "verse": "bionda, viso d'argento."
+                },
+                {
+                    "verse": "Presente mi contava,"
+                },
+                {
+                    "verse": "e non mi si celava,"
+                },
+                {
+                    "verse": "tut[t]o suo convenente;"
+                },
+                {
+                    "verse": "e disse: «I' t'ameraggio"
+                },
+                {
+                    "verse": "e non ti falleraggio"
+                },
+                {
+                    "verse": "a tut[t]o 'l mio vivente."
+                }
+            ],
+            [
+                {
+                    "verse": " Al mio vivente, amore,"
+                },
+                {
+                    "verse": "io non ti falliraggio"
+                },
+                {
+                    "verse": "per lo lusingatore"
+                },
+                {
+                    "verse": "che parla tal fallaggio."
+                },
+                {
+                    "verse": "Ed io sì t'ameraggio"
+                },
+                {
+                    "verse": "per quello ch'è salvaggio;"
+                },
+                {
+                    "verse": "Dio li mandi dolore,"
+                },
+                {
+                    "verse": "unqua non vegna a maggio:"
+                },
+                {
+                    "verse": "tant'è di mal usaggio"
+                },
+                {
+                    "verse": "che di stat'à gelore»."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 16,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Dal core mi vene"
+                },
+                {
+                    "verse": "che gli occhi mi tene —rosata:"
+                },
+                {
+                    "verse": "spesso m'adivene"
+                },
+                {
+                    "verse": "che la cera ò bene —bagnata,"
+                },
+                {
+                    "verse": "quando mi sovene"
+                },
+                {
+                    "verse": "di mia bona spene —c'ò data"
+                }
+            ],
+            [
+                {
+                    "verse": " in voi, amorosa,"
+                },
+                {
+                    "verse": "benaventurosa."
+                },
+                {
+                    "verse": "Però, se m'amate,"
+                },
+                {
+                    "verse": "già non vi 'ngannate —neiente,"
+                },
+                {
+                    "verse": "ca pur aspetando,"
+                },
+                {
+                    "verse": "in voi 'magginando,"
+                },
+                {
+                    "verse": "l'amor c'aggio in voi"
+                },
+                {
+                    "verse": "lo cor mi distrui, —avenente;"
+                },
+                {
+                    "verse": "ca·ss'io non temesse"
+                },
+                {
+                    "verse": "c'a voi dispiacesse,"
+                },
+                {
+                    "verse": "ben m'aucideria,"
+                },
+                {
+                    "verse": "e non viveri' a —tormenti."
+                }
+            ],
+            [
+                {
+                    "verse": " Ca pur penare"
+                },
+                {
+                    "verse": "è disiare,"
+                },
+                {
+                    "verse": "già mai non fare"
+                },
+                {
+                    "verse": "mia diletanza:"
+                },
+                {
+                    "verse": "la rimembranza"
+                },
+                {
+                    "verse": "di voi, aulente cosa,"
+                },
+                {
+                    "verse": "gli ochi m'arosa"
+                },
+                {
+                    "verse": "d'un'aigua d'amore."
+                }
+            ],
+            [
+                {
+                    "verse": " Or potess'eo,"
+                },
+                {
+                    "verse": "o amore meo,"
+                },
+                {
+                    "verse": "come romeo"
+                },
+                {
+                    "verse": "venire ascoso,"
+                },
+                {
+                    "verse": "e disioso"
+                },
+                {
+                    "verse": "con voi mi vedesse,"
+                },
+                {
+                    "verse": "non mi partisse"
+                },
+                {
+                    "verse": "dal vostro dolzore."
+                },
+                {
+                    "verse": "Dal vostro lato"
+                },
+                {
+                    "verse": " allungato,"
+                },
+                {
+                    "verse": "bell'ò provato"
+                },
+                {
+                    "verse": "mal che non salda:"
+                },
+                {
+                    "verse": "Tristano Isalda"
+                },
+                {
+                    "verse": "non amau sì forte;"
+                },
+                {
+                    "verse": "ben mi par morte"
+                },
+                {
+                    "verse": "non vedervi fiore."
+                }
+            ],
+            [
+                {
+                    "verse": " Vostro valore"
+                },
+                {
+                    "verse": "c'adorna ed invia"
+                },
+                {
+                    "verse": "donne e donzelle,"
+                },
+                {
+                    "verse": "l'avisaturi"
+                },
+                {
+                    "verse": "di voi, donna mia,"
+                },
+                {
+                    "verse": "son gli ochi belli:"
+                },
+                {
+                    "verse": "pens'a tutore"
+                },
+                {
+                    "verse": "quando vi vedia"
+                },
+                {
+                    "verse": "con gioi novelli."
+                }
+            ],
+            [
+                {
+                    "verse": " «Hoi tu, meo core,"
+                },
+                {
+                    "verse": "perché non ti more?"
+                },
+                {
+                    "verse": "Rispondi, che fai?"
+                },
+                {
+                    "verse": "perché doli —così?»"
+                },
+                {
+                    "verse": "«Non ti rispondo,"
+                },
+                {
+                    "verse": "ma ben ti confondo"
+                },
+                {
+                    "verse": "se tosto non vai"
+                },
+                {
+                    "verse": "là ove voli —con mi:"
+                },
+                {
+                    "verse": "la fresca cera"
+                },
+                {
+                    "verse": "tempesta e dispera;"
+                },
+                {
+                    "verse": "in pensiero m'ài"
+                },
+                {
+                    "verse": "miso e 'n cordoglio —per ti»."
+                }
+            ],
+            [
+                {
+                    "verse": " Così, bella, —si favella"
+                },
+                {
+                    "verse": "lo mi' cor conmeco:"
+                },
+                {
+                    "verse": "di persona —no·m ragiona,"
+                },
+                {
+                    "verse": "né parlo né dico."
+                },
+                {
+                    "verse": "Sì curale —e naturale"
+                },
+                {
+                    "verse": "di voi amor mi piace,"
+                },
+                {
+                    "verse": "c'ogni vista —mi par trista"
+                },
+                {
+                    "verse": "c'altra donna face:"
+                },
+                {
+                    "verse": "ca·ss'io veglio —o sonno piglio,"
+                },
+                {
+                    "verse": "lo mio cor no 'nsonna,"
+                },
+                {
+                    "verse": "sen[n]o sc[h]ietto —sì m'à\nstretto"
+                },
+                {
+                    "verse": "pur di voi, madonna."
+                }
+            ],
+            [
+                {
+                    "verse": " Si m'è dura —[e] scura —figura"
+                },
+                {
+                    "verse": "di quantonqu'eo veo:"
+                },
+                {
+                    "verse": "gli occhi avere —e vedere —e volere"
+                },
+                {
+                    "verse": "altro non disio;"
+                },
+                {
+                    "verse": "trecce sciolte —ni avolte —ni adolte,"
+                },
+                {
+                    "verse": "né bruna né bianca"
+                },
+                {
+                    "verse": " — —"
+                },
+                {
+                    "verse": "[ -anca]."
+                },
+                {
+                    "verse": "Gioi complita —norita, —mi 'nvita:"
+                },
+                {
+                    "verse": "voi siete più fina,"
+                },
+                {
+                    "verse": "che s'io faccio —sollaccio —ch'io piaccio,"
+                },
+                {
+                    "verse": "vostro amor mi mina"
+                }
+            ],
+            [
+                {
+                    "verse": " dotrina, —e benvolenza."
+                },
+                {
+                    "verse": "La vostra benvolenza"
+                },
+                {
+                    "verse": "mi dona canoscenza"
+                },
+                {
+                    "verse": "di servire a chiasenza"
+                },
+                {
+                    "verse": "quella che più m'agenza,"
+                },
+                {
+                    "verse": "e aggio ritemenza"
+                },
+                {
+                    "verse": "per troppa sovenenza."
+                }
+            ],
+            [
+                {
+                    "verse": " E no·m porta —amor che [s]porta"
+                },
+                {
+                    "verse": "e tira a ogne freno;"
+                },
+                {
+                    "verse": "e non corre, —sì che scorre,"
+                },
+                {
+                    "verse": "peramore fino."
+                },
+                {
+                    "verse": "Ben verria, —e non lasseria"
+                },
+                {
+                    "verse": "per nulla leanza,"
+                },
+                {
+                    "verse": "s'io sapesse —ch'io morisse,"
+                },
+                {
+                    "verse": "sì mi stringe amanza."
+                },
+                {
+                    "verse": "Tutto credo, —e non discredo,"
+                },
+                {
+                    "verse": "che la mia venuta"
+                },
+                {
+                    "verse": "dea placere —ed alegrire"
+                },
+                {
+                    "verse": "de la veduta."
+                }
+            ],
+            [
+                {
+                    "verse": " Ma sempre-mai non sento"
+                },
+                {
+                    "verse": "vostro comandamento,"
+                },
+                {
+                    "verse": "non ò confortamento"
+                },
+                {
+                    "verse": "del vostro avenimento;"
+                },
+                {
+                    "verse": "ch'io ristò e non canto"
+                },
+                {
+                    "verse": "sì c'a voi piaccia tanto,"
+                },
+                {
+                    "verse": "e mandovi infratanto"
+                },
+                {
+                    "verse": "saluti e dolze pianto;"
+                },
+                {
+                    "verse": "[e] piango per usaggio,"
+                },
+                {
+                    "verse": "già mai non rideraggio"
+                },
+                {
+                    "verse": "mentre non vederaggio"
+                },
+                {
+                    "verse": "lo vostro bel visaggio."
+                },
+                {
+                    "verse": "Ragione aggio,"
+                },
+                {
+                    "verse": "ed altro non faraggio,"
+                },
+                {
+                    "verse": "né poraggio,"
+                },
+                {
+                    "verse": "tal è lo mi' coraggio."
+                }
+            ],
+            [
+                {
+                    "verse": " C'altre parole"
+                },
+                {
+                    "verse": "no vole,"
+                },
+                {
+                    "verse": "ma dole"
+                },
+                {
+                    "verse": "de li parlamenti"
+                },
+                {
+                    "verse": "de la genti:"
+                },
+                {
+                    "verse": "non consenti"
+                },
+                {
+                    "verse": "che parli né che dolenti,"
+                },
+                {
+                    "verse": "e aggio veduta"
+                },
+                {
+                    "verse": "perlasciare"
+                },
+                {
+                    "verse": "la tenuta"
+                },
+                {
+                    "verse": "de lo meo dolce penzare."
+                }
+            ],
+            [
+                {
+                    "verse": " Si como —noi"
+                },
+                {
+                    "verse": "che somo —d'un cor dui,"
+                },
+                {
+                    "verse": "ed or[a] —plui"
+                },
+                {
+                    "verse": "ched ancora —non fui,"
+                },
+                {
+                    "verse": "di voi, —bel viso,"
+                },
+                {
+                    "verse": "sono priso"
+                },
+                {
+                    "verse": "e conquiso;"
+                },
+                {
+                    "verse": "che fra dormentare"
+                },
+                {
+                    "verse": "mi fa levare"
+                },
+                {
+                    "verse": "e intrare"
+                },
+                {
+                    "verse": "in sì gran foco"
+                },
+                {
+                    "verse": "ca per poco"
+                },
+                {
+                    "verse": "non m'aucido"
+                },
+                {
+                    "verse": "de lo strido"
+                },
+                {
+                    "verse": "ch'io ne gitto,"
+                },
+                {
+                    "verse": "[ -etto]"
+                },
+                {
+                    "verse": "[ -ete]"
+                },
+                {
+                    "verse": "ch'io non vegna là ove siete,"
+                },
+                {
+                    "verse": "rimembrando,"
+                },
+                {
+                    "verse": "bella, quando"
+                },
+                {
+                    "verse": "con voi mi vedea"
+                },
+                {
+                    "verse": "sollazzando"
+                },
+                {
+                    "verse": "ed istando"
+                },
+                {
+                    "verse": "in gioi, sì com' far solea."
+                }
+            ],
+            [
+                {
+                    "verse": " Per quant'aggio di gioia"
+                },
+                {
+                    "verse": "tant'aggio mala noia:"
+                },
+                {
+                    "verse": "la mia vita è croia"
+                },
+                {
+                    "verse": "sanza voi vedendo."
+                },
+                {
+                    "verse": "Cantando aivo"
+                },
+                {
+                    "verse": "or vivo pur pensivo"
+                },
+                {
+                    "verse": "e tutta gente ischivo,"
+                },
+                {
+                    "verse": "sì ch'io vo fuggendo,"
+                },
+                {
+                    "verse": "pur cherendo —ond'io m'asconda:"
+                },
+                {
+                    "verse": "onde lo core m'abonda"
+                },
+                {
+                    "verse": "e [per] gli occhi fuori gronda,"
+                },
+                {
+                    "verse": "[e] sì dolcemente fonda"
+                },
+                {
+                    "verse": "com' lo fino oro che fonda."
+                }
+            ],
+            [
+                {
+                    "verse": " Ormai risponda —mandatemi a dire,"
+                },
+                {
+                    "verse": "voi che martiri —per me sofferite:"
+                },
+                {
+                    "verse": "ben vi dovrete —infra lo cor dolire"
+                },
+                {
+                    "verse": "de' mie' martire, —se vi sovenite"
+                },
+                {
+                    "verse": "come sete —lontana,"
+                },
+                {
+                    "verse": "sovrana —de lo core prossimana."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 17,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Feruto sono isvariatamente:"
+                },
+                {
+                    "verse": "Amore m'à feruto, or per che cosa?"
+                },
+                {
+                    "verse": "cad io vi saccia dir lo convenente"
+                },
+                {
+                    "verse": "di quelli che del trovar no ànno posa:"
+                }
+            ],
+            [
+                {
+                    "verse": " ca dicono in lor ditto spessamente"
+                },
+                {
+                    "verse": "c'amore à deitate in sé inclosa;"
+                },
+                {
+                    "verse": "ed io sì dico che non è neiente"
+                },
+                {
+                    "verse": "ca più d'un dio non è né essere osa."
+                }
+            ],
+            [
+                {
+                    "verse": " E chi lo mi volesse contastare,"
+                },
+                {
+                    "verse": "io li l[o] mostreria per [q]uia e quanto,"
+                },
+                {
+                    "verse": "come non è più d'una deitate."
+                }
+            ],
+            [
+                {
+                    "verse": " In vanitate non voglio più stare:"
+                },
+                {
+                    "verse": "voi che trovate novo ditto e canto,"
+                },
+                {
+                    "verse": "partitevi da ciò, che voi peccate."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 18,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Cotale gioco mai non fue veduto,"
+                },
+                {
+                    "verse": "c'aggio vercogna di dir ciò ch'io sento,"
+                },
+                {
+                    "verse": "e dottone che non mi sia creduto,"
+                },
+                {
+                    "verse": "però c'ogn'om ne vive a scaltrimento;"
+                }
+            ],
+            [
+                {
+                    "verse": " pur uno poco sia d'amor feruto"
+                },
+                {
+                    "verse": "sì si ragenza e fa suo parlamento,"
+                },
+                {
+                    "verse": "e dice: «Donna, s'io non aggio aiuto,"
+                },
+                {
+                    "verse": "io me 'nde moro, e fonne saramento»."
+                }
+            ],
+            [
+                {
+                    "verse": " Però gran noia mi fanno menzonieri,"
+                },
+                {
+                    "verse": "sì 'mprontamente dicon lor menzogna,"
+                },
+                {
+                    "verse": "ch'eo lo vero dirialo volontieri;"
+                }
+            ],
+            [
+                {
+                    "verse": " ma tacciolmi, che no mi sia vergogna,"
+                },
+                {
+                    "verse": "ca d'onne parte amoro[so] pensieri"
+                },
+                {
+                    "verse": "intrat'è in meve com'agua in ispugna."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 19,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Amor è un[o] desio che ven da core"
+                },
+                {
+                    "verse": "per abondanza di gran piacimento;"
+                },
+                {
+                    "verse": "e li occhi in prima genera[n] l'amore"
+                },
+                {
+                    "verse": "e lo core li dà nutricamento."
+                }
+            ],
+            [
+                {
+                    "verse": " Ben è alcuna fiata om amatore"
+                },
+                {
+                    "verse": "senza vedere so 'namoramento,"
+                },
+                {
+                    "verse": "ma quell'amor che stringe con furore"
+                },
+                {
+                    "verse": "da la vista de li occhi à nas[ci]mento."
+                }
+            ],
+            [
+                {
+                    "verse": " Che li occhi rapresenta[n] a lo core"
+                },
+                {
+                    "verse": "d'onni cosa che veden bono e rio,"
+                },
+                {
+                    "verse": "com'è formata natural[e]mente;"
+                }
+            ],
+            [
+                {
+                    "verse": " e lo cor, che di zo è concepitore,"
+                },
+                {
+                    "verse": "imagina, e piace quel desio:"
+                },
+                {
+                    "verse": "e questo amore regna fra la gente."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 20,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Lo giglio quand'è colto tost'è passo,"
+                },
+                {
+                    "verse": "da poi la sua natura lui no è giunta;"
+                },
+                {
+                    "verse": "ed io da c'unche son partuto un passo"
+                },
+                {
+                    "verse": "da voi, mia donna, dolemi ogni giunta."
+                }
+            ],
+            [
+                {
+                    "verse": " Per che d'amare ogni amadore passo,"
+                },
+                {
+                    "verse": "in tante altezze lo mio core giunta:"
+                },
+                {
+                    "verse": "così mi fere Amor là 'vunque passo,"
+                },
+                {
+                    "verse": "com'aghila quand'a la caccia è giunta."
+                }
+            ],
+            [
+                {
+                    "verse": " Oi lasso me, che nato fui in tal punto,"
+                },
+                {
+                    "verse": "s'unque no amasse se non voi, chiù gente"
+                },
+                {
+                    "verse": "(questo saccia madonna da mia parte):"
+                }
+            ],
+            [
+                {
+                    "verse": " imprima che vi vidi ne fuo' punto,"
+                },
+                {
+                    "verse": "servi'vi ed inora'vi a tutta gente,"
+                },
+                {
+                    "verse": "da voi, bella, lo mio core non parte."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 21,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Sì come il sol che manda la sua spera"
+                },
+                {
+                    "verse": "e passa per lo vetro e no lo parte,"
+                },
+                {
+                    "verse": "e l'altro vetro che le donne spera,"
+                },
+                {
+                    "verse": "che passa gli ochi e va da l'altra parte,"
+                }
+            ],
+            [
+                {
+                    "verse": " così l'Amore fere là ove spera"
+                },
+                {
+                    "verse": "e mandavi lo dardo da sua parte:"
+                },
+                {
+                    "verse": "fere in tal loco che l'omo non spera,"
+                },
+                {
+                    "verse": "passa per gli ochi e lo core diparte."
+                }
+            ],
+            [
+                {
+                    "verse": " Lo dardo de l'Amore là ove giunge,"
+                },
+                {
+                    "verse": "da poi che dà feruta sì s'aprende"
+                },
+                {
+                    "verse": "di foco c'arde dentro e fuor non pare;"
+                }
+            ],
+            [
+                {
+                    "verse": " e due cori insemora li giunge,"
+                },
+                {
+                    "verse": "de l'arte de l'amore sì gli aprende,"
+                },
+                {
+                    "verse": "e face l'uno e l'altro d'amor pare."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 22,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Or come pote sì gran donna entrare"
+                },
+                {
+                    "verse": "per gli ochi mei che sì piccioli sone?"
+                },
+                {
+                    "verse": "e nel mio core come pote stare,"
+                },
+                {
+                    "verse": "che 'nentr'esso la porto là onque i' vone?"
+                }
+            ],
+            [
+                {
+                    "verse": " Lo loco là onde entra già non pare,"
+                },
+                {
+                    "verse": "ond'io gran meraviglia me ne dòne;"
+                },
+                {
+                    "verse": "ma voglio lei a lumera asomigliare,"
+                },
+                {
+                    "verse": "e gli ochi mei al vetro ove si pone."
+                }
+            ],
+            [
+                {
+                    "verse": " Lo foco inchiuso, poi passa difore"
+                },
+                {
+                    "verse": "lo suo lostrore, sanza far rotura:"
+                },
+                {
+                    "verse": "così per gli ochi mi pass'a lo core,"
+                }
+            ],
+            [
+                {
+                    "verse": " no la persona, ma la sua figura."
+                },
+                {
+                    "verse": "Rinovellare mi voglio d'amore,"
+                },
+                {
+                    "verse": "poi porto insegna di tal criatura."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 23,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Molti amadori la lor malatia"
+                },
+                {
+                    "verse": "portano in core, che 'n vista non pare;"
+                },
+                {
+                    "verse": "ed io non posso sì celar la mia,"
+                },
+                {
+                    "verse": "ch'ella non paia per lo mio penare:"
+                }
+            ],
+            [
+                {
+                    "verse": " però che son sotto altrui segnoria,"
+                },
+                {
+                    "verse": "né di meve nonn-ò neiente a·ffare,"
+                },
+                {
+                    "verse": "se non quanto madonna mia voria,"
+                },
+                {
+                    "verse": "ch'ella mi pote morte e vita dare."
+                }
+            ],
+            [
+                {
+                    "verse": " Su' è lo core e suo son tutto quanto,"
+                },
+                {
+                    "verse": "e chi non à consiglio da suo core,"
+                },
+                {
+                    "verse": "non vive infra la gente como deve;"
+                }
+            ],
+            [
+                {
+                    "verse": " cad io non sono mio né più né tanto,"
+                },
+                {
+                    "verse": "se non quanto madonna è de mi fore"
+                },
+                {
+                    "verse": "ed uno poco di spirito è 'n meve."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 24,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Donna, vostri sembianti mi mostraro"
+                },
+                {
+                    "verse": "isperanza d'amore e benvolenza,"
+                },
+                {
+                    "verse": "ed io sovr'ogni gioia lo n'ò caro"
+                },
+                {
+                    "verse": "lo vostro amore e far vostra piagenza."
+                }
+            ],
+            [
+                {
+                    "verse": " Or vi mostrate irata, dunqu'è raro"
+                },
+                {
+                    "verse": "senza ch'io pechi darmi penitenza,"
+                },
+                {
+                    "verse": "e fatt'avete de la penna caro,"
+                },
+                {
+                    "verse": "come nochier c'à falsa canoscenza."
+                }
+            ],
+            [
+                {
+                    "verse": " Disconoscenza ben mi par che sia,"
+                },
+                {
+                    "verse": "la conoscenza che nonn-à fermezze,"
+                },
+                {
+                    "verse": "che si rimuta per ogni volere;"
+                }
+            ],
+            [
+                {
+                    "verse": " dunque non siete voi in vostra balia,"
+                },
+                {
+                    "verse": "né inn-altrui c'aia ferme prodezze,"
+                },
+                {
+                    "verse": "e non avrete ben fine al gioire."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 25,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Ogn'omo c'ama de' amar so 'nore"
+                },
+                {
+                    "verse": "e de la donna che prende ad amare;"
+                },
+                {
+                    "verse": "e foll'è chi non è soferitore,"
+                },
+                {
+                    "verse": "che la natura de' omo isforzare;"
+                }
+            ],
+            [
+                {
+                    "verse": " e non de' dire ciò ch'egli ave in core"
+                },
+                {
+                    "verse": "che la parola non pò ritornare:"
+                },
+                {
+                    "verse": "da tutta gente tenut'è migliore"
+                },
+                {
+                    "verse": "chi à misura ne lo so parlare."
+                }
+            ],
+            [
+                {
+                    "verse": " Dunque, madonna, mi voglio sofrire"
+                },
+                {
+                    "verse": "di far sembianti a la vostra contrata,"
+                },
+                {
+                    "verse": "che la gente si sforza di maldire;"
+                }
+            ],
+            [
+                {
+                    "verse": " però lo faccio, non siate blasmata,"
+                },
+                {
+                    "verse": "che l'omo si diletta più di dire"
+                },
+                {
+                    "verse": "lo male che lo bene a la fiata."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 26,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " A l'aire claro ò vista ploggia dare,"
+                },
+                {
+                    "verse": "ed a lo scuro rendere clarore;"
+                },
+                {
+                    "verse": "e foco arzente ghiaccia diventare,"
+                },
+                {
+                    "verse": "e freda neve rendere calore;"
+                }
+            ],
+            [
+                {
+                    "verse": " e dolze cose molto amareare,"
+                },
+                {
+                    "verse": "e de l'amare rendere dolzore;"
+                },
+                {
+                    "verse": "e dui guerreri in fina pace stare,"
+                },
+                {
+                    "verse": "e 'ntra dui amici nascereci errore."
+                }
+            ],
+            [
+                {
+                    "verse": " Ed ò vista d'Amor cosa più forte,"
+                },
+                {
+                    "verse": "ch'era feruto e sanòmi ferendo;"
+                },
+                {
+                    "verse": "lo foco donde ardea stutò con foco."
+                }
+            ],
+            [
+                {
+                    "verse": " La vita che mi dè fue la mia morte;"
+                },
+                {
+                    "verse": "lo foco che mi stinse, ora ne 'ncendo,"
+                },
+                {
+                    "verse": "d'amor mi trasse e misemi in su' loco."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 27,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Io m'aggio posto in core a Dio servire,"
+                },
+                {
+                    "verse": "com'io potesse gire in paradiso,"
+                },
+                {
+                    "verse": "al santo loco, c'aggio audito dire,"
+                },
+                {
+                    "verse": "o' si mantien sollazzo, gioco e riso."
+                }
+            ],
+            [
+                {
+                    "verse": " Sanza mia donna non vi voria gire,"
+                },
+                {
+                    "verse": "quella c'à blonda testa e claro viso,"
+                },
+                {
+                    "verse": "che sanza lei non poteria gaudere,"
+                },
+                {
+                    "verse": "estando da la mia donna diviso."
+                }
+            ],
+            [
+                {
+                    "verse": " Ma no lo dico a tale intendimento,"
+                },
+                {
+                    "verse": "perch'io pecato ci volesse fare;"
+                },
+                {
+                    "verse": "se non veder lo suo bel portamento"
+                }
+            ],
+            [
+                {
+                    "verse": " e lo bel viso e 'l morbido sguardare:"
+                },
+                {
+                    "verse": "che·l mi teria in gran consolamento,"
+                },
+                {
+                    "verse": "veggendo la mia donna in ghiora stare."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 28,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": "\t[L]o viso mi fa andare alegramente,"
+                },
+                {
+                    "verse": "lo bello viso mi fa rinegare;"
+                },
+                {
+                    "verse": "lo viso me conforta ispesament[e],"
+                },
+                {
+                    "verse": "l'adorno viso che mi fa penare."
+                }
+            ],
+            [
+                {
+                    "verse": " Lo chiaro viso de la più avenente,"
+                },
+                {
+                    "verse": "l'adorno viso, riso me fa fare:"
+                },
+                {
+                    "verse": "di quello viso parlane la gente,"
+                },
+                {
+                    "verse": "che nullo viso [a viso] li pò stare."
+                }
+            ],
+            [
+                {
+                    "verse": " Chi vide mai così begli ochi in viso,"
+                },
+                {
+                    "verse": "né sì amorosi fare li sembianti,"
+                },
+                {
+                    "verse": "né boca con cotanto dolce riso?"
+                }
+            ],
+            [
+                {
+                    "verse": " Quand'eo li parlo moroli davanti,"
+                },
+                {
+                    "verse": "e paremi ch'i' vada in paradiso,"
+                },
+                {
+                    "verse": "e tegnomi sovrano d'ogn'amante."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 29,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": "\t[E]o viso —e son diviso —da lo viso,"
+                },
+                {
+                    "verse": "e per aviso —credo ben visare;"
+                },
+                {
+                    "verse": "però diviso —'viso' —da lo 'viso',"
+                },
+                {
+                    "verse": "c'altr'è lo viso —che lo divisare."
+                }
+            ],
+            [
+                {
+                    "verse": " E per aviso —viso —in tale viso"
+                },
+                {
+                    "verse": "de l[o] qual me non posso divisare:"
+                },
+                {
+                    "verse": "viso a vedere quell'è peraviso,"
+                },
+                {
+                    "verse": "che no è altro se non Deo divisare."
+                }
+            ],
+            [
+                {
+                    "verse": " 'Ntra viso —e peraviso —no è diviso,"
+                },
+                {
+                    "verse": "che non è altro che visare in viso:"
+                },
+                {
+                    "verse": "però mi sforzo tuttora visare."
+                }
+            ],
+            [
+                {
+                    "verse": "\t[E] credo per aviso —che da 'viso'"
+                },
+                {
+                    "verse": "giamai me' non pos'essere diviso,"
+                },
+                {
+                    "verse": "che l'uomo vi 'nde possa divisare."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 30,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": "\t[S]ì alta amanza à pres'a lo me' core,"
+                },
+                {
+                    "verse": "ch'i' mi disfido de lo compimento:"
+                },
+                {
+                    "verse": "che in aguila gruera ò messo amore"
+                },
+                {
+                    "verse": "ben est'orgoglio, ma no falimento."
+                }
+            ],
+            [
+                {
+                    "verse": " C'Amor l'encalza e spera, aulente frore,"
+                },
+                {
+                    "verse": "c'albor altera incrina dolce vento,"
+                },
+                {
+                    "verse": "e lo diamante rompe a tut[t]e l'ore"
+                },
+                {
+                    "verse": "de lacreme lo molle scendimento."
+                }
+            ],
+            [
+                {
+                    "verse": " Donqua, madonna, se lacrime e pianto"
+                },
+                {
+                    "verse": "de l[o] diamante frange le durezze,"
+                },
+                {
+                    "verse": "[le] vostre altezze poria isbasare"
+                }
+            ],
+            [
+                {
+                    "verse": " lo meo penar amoroso ch'è tanto,"
+                },
+                {
+                    "verse": "umiliare le vostre durezze,"
+                },
+                {
+                    "verse": "foco d'amor in vui, donna, alumare."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 31,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": "\t[P]er sofrenza si vince gran vetoria"
+                },
+                {
+                    "verse": "ond'omo ven spesora in dignitate,"
+                },
+                {
+                    "verse": "sì con' si trova ne l'antica istoria"
+                },
+                {
+                    "verse": "di Iobo ch'ebbe tanta aversitate:"
+                }
+            ],
+            [
+                {
+                    "verse": " chi fu sofrent'e no perdeo memoria"
+                },
+                {
+                    "verse": "per grave pene c'a lui fosser date,"
+                },
+                {
+                    "verse": "li fu data corona ne la groria"
+                },
+                {
+                    "verse": "davanti la divina maiestate."
+                }
+            ],
+            [
+                {
+                    "verse": " Però conforto grande, dico, prendo:"
+                },
+                {
+                    "verse": "ancor la mia ventura vada torta"
+                },
+                {
+                    "verse": "no me dispero certo malamente,"
+                }
+            ],
+            [
+                {
+                    "verse": " che la ventura sempre va corendo"
+                },
+                {
+                    "verse": "e tostamente rica gioia aporta"
+                },
+                {
+                    "verse": "a chiunque [n'è] bono sof[e]rente."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 32,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": "\t[C]erto me par che far dea bon signore"
+                },
+                {
+                    "verse": "i·signoria sua fier cominciame[n]to,"
+                },
+                {
+                    "verse": "sì che lo doti chi à malvagìa in core,"
+                },
+                {
+                    "verse": "e chi l'à bon, megliori il su' talento."
+                }
+            ],
+            [
+                {
+                    "verse": " Così poria venire ['n] grande onore"
+                },
+                {
+                    "verse": "e a bon fin de lo so reggimento,"
+                },
+                {
+                    "verse": "che sed al cominciar mostr'amarore,"
+                },
+                {
+                    "verse": "porase render dolce al finimento."
+                }
+            ],
+            [
+                {
+                    "verse": " Ma in te, Amore, veggio lo contraro,"
+                },
+                {
+                    "verse": "sì como quello pien di falisone,"
+                },
+                {
+                    "verse": "c'al cominciar no mostri fior d'amaro;"
+                }
+            ],
+            [
+                {
+                    "verse": " poi scruopi tua malvagia openione,"
+                },
+                {
+                    "verse": "qual più ti serve a fé, quel men ài caro,"
+                },
+                {
+                    "verse": "ond'eo t'aprovo per signor felone."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 33,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Sì como 'l parpaglion c'à tal natura"
+                },
+                {
+                    "verse": "non si rancura —de ferire al foco,"
+                },
+                {
+                    "verse": "m'avete fatto, gentil creatura:"
+                },
+                {
+                    "verse": "non date cura, —s'eo incendo e coco."
+                }
+            ],
+            [
+                {
+                    "verse": " Venendo a voi lo meo cor s'asigura,"
+                },
+                {
+                    "verse": "pensando tal chiarura —si'a gioco:"
+                },
+                {
+                    "verse": "come 'l zitello e' oblio l'arsura,"
+                },
+                {
+                    "verse": "mai non trovai ventura —in alcun loco."
+                }
+            ],
+            [
+                {
+                    "verse": " Cioè lo cor, che no à ciò che brama,"
+                },
+                {
+                    "verse": "se mor ardendo ne la dolce fiamma,"
+                },
+                {
+                    "verse": "rendendo vita come la finise;"
+                }
+            ],
+            [
+                {
+                    "verse": " e poi l'amor naturalmente il chiama,"
+                },
+                {
+                    "verse": "e l'adornezze che 'n sper'i è l'afiama,"
+                },
+                {
+                    "verse": "rendendo vita come la finise."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 34,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": "\t[C]hi non avesse mai veduto foco"
+                },
+                {
+                    "verse": "no crederia che cocere potesse,"
+                },
+                {
+                    "verse": "anti li sembraria solazzo e gioco"
+                },
+                {
+                    "verse": "lo so isprendor[e], quando lo vedesse."
+                }
+            ],
+            [
+                {
+                    "verse": " Ma s'ello lo tocasse in alcun loco,"
+                },
+                {
+                    "verse": "be·lli se[m]brara che forte cocesse:"
+                },
+                {
+                    "verse": "quello d'Amore m'à tocato un poco,"
+                },
+                {
+                    "verse": "molto me coce —Deo, che s'aprendesse!"
+                }
+            ],
+            [
+                {
+                    "verse": " Che s'aprendesse in voi, [ma]donna mia,"
+                },
+                {
+                    "verse": "che mi mostrate dar solazzo amando,"
+                },
+                {
+                    "verse": "e voi mi date pur pen'e tormento."
+                }
+            ],
+            [
+                {
+                    "verse": " Certo l'Amor[e] fa gran vilania,"
+                },
+                {
+                    "verse": "che no distringe te che vai gabando,"
+                },
+                {
+                    "verse": "a me che servo non dà isbaldimento."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 35,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Diamante, né smiraldo, né zafino,"
+                },
+                {
+                    "verse": "né vernul'altra gema preziosa,"
+                },
+                {
+                    "verse": "topazo, né giaquinto, né rubino,"
+                },
+                {
+                    "verse": "né l'aritropia, ch'è sì vertudiosa,"
+                }
+            ],
+            [
+                {
+                    "verse": " né l'amatisto, né 'l carbonchio fino,"
+                },
+                {
+                    "verse": "lo qual è molto risprendente cosa,"
+                },
+                {
+                    "verse": "non àno tante belezze in domino"
+                },
+                {
+                    "verse": "quant'à in sé la mia donna amorosa."
+                }
+            ],
+            [
+                {
+                    "verse": " E di vertute tutte l'autre avanza,"
+                },
+                {
+                    "verse": "e somigliante [a stella è] di sprendore,"
+                },
+                {
+                    "verse": "co la sua conta e gaia inamoranza,"
+                }
+            ],
+            [
+                {
+                    "verse": " e più bell'e[ste] che rosa e che frore."
+                },
+                {
+                    "verse": "Cristo le doni vita ed alegranza,"
+                },
+                {
+                    "verse": "e sì l'acresca in gran pregio ed onore."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 36,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Madonna à 'n sé vertute con valore"
+                },
+                {
+                    "verse": "più che nul'altra gemma preziosa:"
+                },
+                {
+                    "verse": "che isguardando mi tolse lo core,"
+                },
+                {
+                    "verse": "cotant'è di natura vertudiosa."
+                }
+            ],
+            [
+                {
+                    "verse": " Più luce sua beltate e dà sprendore"
+                },
+                {
+                    "verse": "che non fa 'l sole né null'autra cosa;"
+                },
+                {
+                    "verse": "de tut[t]e l'autre ell'è sovran'e frore,"
+                },
+                {
+                    "verse": "che nulla apareggiare a lei non osa."
+                }
+            ],
+            [
+                {
+                    "verse": " Di nulla cosa non à mancamento"
+                },
+                {
+                    "verse": "né fu ned è né non serà sua pare,"
+                },
+                {
+                    "verse": "né 'n cui si trovi tanto complimento;"
+                }
+            ],
+            [
+                {
+                    "verse": " e credo ben, se Dio l'avesse a fare,"
+                },
+                {
+                    "verse": "non vi metrebbe sì su' 'ntendimento"
+                },
+                {
+                    "verse": "che la potesse simile formare."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 37,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Angelica figura —e comprobata,"
+                },
+                {
+                    "verse": "dobiata —di ricura —e di grandezze,"
+                },
+                {
+                    "verse": "di senno e d'adornezze —sete ornata,"
+                },
+                {
+                    "verse": "e nata —d'afinata —gentilezze."
+                }
+            ],
+            [
+                {
+                    "verse": " Non mi parete femina incarnata,"
+                },
+                {
+                    "verse": "ma fatta —per gli frori di belezze"
+                },
+                {
+                    "verse": "in cui tutta vertudie è divisata,"
+                },
+                {
+                    "verse": "e data —voi tut[t]'è avenantezze."
+                }
+            ],
+            [
+                {
+                    "verse": " In voi è pregio, senno e conoscenza,"
+                },
+                {
+                    "verse": "e sofrenza, —ch'è somma de li bene,"
+                },
+                {
+                    "verse": "como la spene —che fiorisc'e ingrana:"
+                }
+            ],
+            [
+                {
+                    "verse": " come lo nome, av[e]te la potenza"
+                },
+                {
+                    "verse": "di dar sentenza —chi contra voi viene,"
+                },
+                {
+                    "verse": "sì com'avene —a la cità romana."
+                }
+            ]
+        ]
+    },
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000201",
+        "author": "Giacomo da Lentini",
+        "collection": "Poesie",
+        "title": 38,
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": " Quand'om à un bon amico leiale"
+                },
+                {
+                    "verse": "cortesemente il de' saper tenere,"
+                },
+                {
+                    "verse": "e no·l de' trar sì cort'o deliale"
+                },
+                {
+                    "verse": "che si convegna per forza partire."
+                }
+            ],
+            [
+                {
+                    "verse": " Che d'aquistar l'amico poco vale,"
+                },
+                {
+                    "verse": "da poi che no lo sa ben mantenere:"
+                },
+                {
+                    "verse": "che lo de' conoscere bene e male,"
+                },
+                {
+                    "verse": "donare e torre, e saperl'agradire."
+                }
+            ],
+            [
+                {
+                    "verse": " Ma molti creden tenere amistade"
+                },
+                {
+                    "verse": "sol per pelare altrui a la cortese,"
+                },
+                {
+                    "verse": "e non mostrare in vista ciò che sia;"
+                }
+            ],
+            [
+                {
+                    "verse": " be·lli falla pensieri in veritate,"
+                },
+                {
+                    "verse": "chi crede fare d'altrui borsa spese,"
+                },
+                {
+                    "verse": "c'omo vivente sofrir no·l poria."
+                }
+            ]
+        ]
+    }
+]

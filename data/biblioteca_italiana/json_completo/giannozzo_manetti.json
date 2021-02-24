@@ -1,0 +1,72 @@
+[
+    {
+        "url": "https://github.com/linhd-postdata/biblioteca_italiana/blob/master/xml/bibit000315",
+        "author": "Giannozzo Manetti",
+        "collection": "Poesie",
+        "title": "I",
+        "manually_checked": false,
+        "text": [
+            [
+                {
+                    "verse": "Se tu ti recherai la mente al petto,"
+                },
+                {
+                    "verse": "vedrai l'animo pregno del Soldino"
+                },
+                {
+                    "verse": "perseguitarti qual mai il Piccinino"
+                },
+                {
+                    "verse": "solea il fiorentin far per dispetto;"
+                }
+            ],
+            [
+                {
+                    "verse": "over quell'empio e crudel Macometto,"
+                },
+                {
+                    "verse": "o Saulo i buon cristiani o 'l gran re Nino"
+                },
+                {
+                    "verse": "sottomettendo il re, ma Pagolino,"
+                },
+                {
+                    "verse": "credimi, rimarrà senza sospetto."
+                }
+            ],
+            [
+                {
+                    "verse": "E tu trïonferai d'esta contesa,"
+                },
+                {
+                    "verse": "laudabil fama a Firenze portando,"
+                },
+                {
+                    "verse": "sol per la tua ragionevole impresa;"
+                }
+            ],
+            [
+                {
+                    "verse": "ché più felice l'uom si può dir quando"
+                },
+                {
+                    "verse": "d'un error fatto gliene duole e pesa,"
+                },
+                {
+                    "verse": "e poi s'amenda, Agustino imitando,"
+                }
+            ],
+            [
+                {
+                    "verse": "che fu, contento, errando,"
+                },
+                {
+                    "verse": "i solenni suo libri ritrattare;"
+                },
+                {
+                    "verse": "e quel presüntuoso nol vuol fare."
+                }
+            ]
+        ]
+    }
+]
