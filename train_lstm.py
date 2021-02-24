@@ -1,11 +1,23 @@
+__author__ = "Antonio Masotti"
+__date__ = "February 2021"
+
+
+"""
+Train the NN model
+
+"""
+
+
 from argparse import Namespace
-from utils.predictions import predict
 from tqdm import tqdm
 import json
+
 import torch
 import torch.nn as nn
 import torch.optim as O
 from torch.utils.data import DataLoader
+
+from utils.predictions import predict
 from utils.utils import print_infos
 from utils.dataset import Data
 from utils.lstm_module import PoetryGenerator
@@ -24,6 +36,7 @@ args = Namespace(
     batch_size=80,
     embedding_size=200,
     hidden_size=100,
+    # Input for the generator
     words=["come", "i", "matti", "a", "mezzogiorno"],
     save_each=500,
     device='cuda' if torch.cuda.is_available() else 'cpu',
